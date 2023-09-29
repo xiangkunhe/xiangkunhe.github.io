@@ -40,38 +40,19 @@ Honors and Awards
 * Runner-Up at Intelligent Algorithm Final of 2022 Alibaba Global "Future Vehicle" Intelligent Scene
 * Innovation Challenge
 
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
 Service and leadership
 ======
-* Reviewer:
-  IEEE Transactions on Intelligent Transportation systems,
-  IEEE Transactions on Intelligent Vehicles,
-  IEEE Transactions on Artificial Intelligence,
-  IEEE/ASME Transactions on Mechatronics,
-  IEEE Transactions on Industrial Informatics,
-  IEEE Transactions on Vehicular Technology,
-  IEEE Transactions on Transportation Electrification,
-   IEEE Robotics and Automation Letters,
-   Vehicle System Dynamics,
-   Mechanical Systems and Signal Processing,
-   IEEE/CAA Journal of Automatica Sinica, Conference on Robot Learning, et al.
-* Guest Editor:
-  Machines, Special Issue "New Trends in Robotics and Automation"
+* Reviewer
+  * IEEE Transactions on Intelligent Transportation systems,
+  * IEEE Transactions on Intelligent Vehicles,
+  * IEEE Transactions on Artificial Intelligence,
+  * IEEE/ASME Transactions on Mechatronics,
+  * IEEE Transactions on Industrial Informatics,
+  * IEEE Transactions on Vehicular Technology,
+  * IEEE Transactions on Transportation Electrification,
+  * IEEE Robotics and Automation Letters,
+  * Vehicle System Dynamics,
+  * Mechanical Systems and Signal Processing,
+  * IEEE/CAA Journal of Automatica Sinica, Conference on Robot Learning, et al.
+* Guest Editor
+  * Machines, Special Issue "New Trends in Robotics and Automation"
