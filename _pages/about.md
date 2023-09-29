@@ -18,7 +18,7 @@ Selected Publications
 
 brief introduction：This study proposes a novel observation adversarial reinforcement learning approach for robust lane change decision making of autonomous vehicles.
 
-[Download paper here](http://xiangkunhe.github.io/files/paper1.pdf)
+[Download paper here](https://www.researchgate.net/publication/359776714_Robust_Lane_Change_Decision_Making_for_Autonomous_Vehicles_An_Observation_Adversarial_Reinforcement_Learning_Approach)
 
 3. Xiangkun He, Baichuan Lou, Haohan Yang, Chen Lv. Robust Decision Making for Autonomous Vehicles at Highway On-Ramps: A Constrained Adversarial Reinforcement Learning Approach. IEEE Transactions on Intelligent Transportation Systems. 2022.
 brief introduction：This work proposes a novel constrained adversarial reinforcement learning approach for robust decision making of autonomous vehicles. 
