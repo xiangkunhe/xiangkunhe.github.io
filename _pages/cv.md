@@ -29,16 +29,16 @@ Work experience
   
 Honors and Awards
 ======
-•  Best Paper Runner Up Award at 2022 6th CAA International Conference on Vehicular Control and Intelligence 
-•  Best Paper Finalist Award at 2020 IEEE International Conference on Mechatronics and Automation 
-•  1st Class Outstanding Paper Award of China Journal of Highway and Transport 
-•  Tsinghua University Outstanding Doctoral Thesis Award
-•  Tsinghua University Outstanding Student Leader
-•  Huawei Major Technological Breakthrough Award 
-•  Huawei 2012 Lab Star
-•  Huawei Hisilicon Chip Star
-•  Runner-Up at Intelligent Algorithm Final of 2022 Alibaba Global "Future Vehicle" Intelligent Scene
-•  Innovation Challenge
+* Best Paper Runner Up Award at 2022 6th CAA International Conference on Vehicular Control and Intelligence 
+* Best Paper Finalist Award at 2020 IEEE International Conference on Mechatronics and Automation 
+* 1st Class Outstanding Paper Award of China Journal of Highway and Transport 
+* Tsinghua University Outstanding Doctoral Thesis Award
+* Tsinghua University Outstanding Student Leader
+* Huawei Major Technological Breakthrough Award 
+* Huawei 2012 Lab Star
+* Huawei Hisilicon Chip Star
+* Runner-Up at Intelligent Algorithm Final of 2022 Alibaba Global "Future Vehicle" Intelligent Scene
+* Innovation Challenge
 
 
 Publications
@@ -61,7 +61,7 @@ Teaching
   
 Service and leadership
 ======
-* Reviewer
+* Reviewer:
   IEEE Transactions on Intelligent Transportation systems,
   IEEE Transactions on Intelligent Vehicles,
   IEEE Transactions on Artificial Intelligence,
@@ -73,5 +73,5 @@ Service and leadership
    Vehicle System Dynamics,
    Mechanical Systems and Signal Processing,
    IEEE/CAA Journal of Automatica Sinica, Conference on Robot Learning, et al.
-* Guest Editor
+* Guest Editor:
   Machines, Special Issue "New Trends in Robotics and Automation"
