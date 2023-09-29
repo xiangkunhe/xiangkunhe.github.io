@@ -15,7 +15,9 @@ I am broadly interested in reinforcement learning, robust machine learning, trus
 Selected Publications
 ======
 1. Xiangkun He, Haohan Yang, Zhongxu Hu, Chen Lv. Robust Lane Change Decision Making for Autonomous Vehicles: An Observation Adversarial Reinforcement Learning Approach. IEEE Transactions on Intelligent Vehicles. 2022. (ESI Highly Cited Paper)
+
 brief introduction：This study proposes a novel observation adversarial reinforcement learning approach for robust lane change decision making of autonomous vehicles.
+
 [Download paper here](http://xiangkunhe.github.io/files/paper1.pdf)
 
 3. Xiangkun He, Baichuan Lou, Haohan Yang, Chen Lv. Robust Decision Making for Autonomous Vehicles at Highway On-Ramps: A Constrained Adversarial Reinforcement Learning Approach. IEEE Transactions on Intelligent Transportation Systems. 2022.
