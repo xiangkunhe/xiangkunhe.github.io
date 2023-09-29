@@ -43,16 +43,16 @@ Honors and Awards
 Service and leadership
 ======
 * Reviewer
-  * IEEE Transactions on Intelligent Transportation systems,
-  * IEEE Transactions on Intelligent Vehicles,
-  * IEEE Transactions on Artificial Intelligence,
-  * IEEE/ASME Transactions on Mechatronics,
-  * IEEE Transactions on Industrial Informatics,
-  * IEEE Transactions on Vehicular Technology,
-  * IEEE Transactions on Transportation Electrification,
-  * IEEE Robotics and Automation Letters,
-  * Vehicle System Dynamics,
-  * Mechanical Systems and Signal Processing,
-  * IEEE/CAA Journal of Automatica Sinica, Conference on Robot Learning, et al.
+  * IEEE Transactions on Intelligent Transportation systems
+  * IEEE Transactions on Intelligent Vehicles
+  * IEEE Transactions on Artificial Intelligence
+  * IEEE/ASME Transactions on Mechatronics
+  * IEEE Transactions on Industrial Informatics
+  * IEEE Transactions on Vehicular Technology
+  * IEEE Transactions on Transportation Electrification
+  * IEEE Robotics and Automation Letters
+  * Vehicle System Dynamics
+  * Mechanical Systems and Signal Processing
+  * IEEE/CAA Journal of Automatica Sinica, Conference on Robot Learning
 * Guest Editor
   * Machines, Special Issue "New Trends in Robotics and Automation"
