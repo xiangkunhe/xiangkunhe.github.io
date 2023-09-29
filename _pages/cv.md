@@ -11,30 +11,35 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Mechatronics, Yanshan University, 2012
+* M.S. in Advanced Driving Assistance System, Jilin University, 2015
+* Ph.D in Decision & Control for Autonomous Driving, Tsinghua University, 2019
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
+* 11/2021-Present: Research Fellow
+  * Nanyang Technological University
+  * Duties included: Reinforcement Learning & Decision Making   & Autonomous Driving
   * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
+* 3/2019-10/2021: Senior Research Scientist
+  * Noah's Ark Lab of Huawei Technologies
+  * Duties included: Reinforcement Learning & Decision Making   & Autonomous Driving
   * Supervisor: Professor Hub
   
-Skills
+Honors and Awards
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+•  Best Paper Runner Up Award at 2022 6th CAA International Conference on Vehicular Control and Intelligence 
+•  Best Paper Finalist Award at 2020 IEEE International Conference on Mechatronics and Automation 
+•  1st Class Outstanding Paper Award of China Journal of Highway and Transport 
+•  Tsinghua University Outstanding Doctoral Thesis Award
+•  Tsinghua University Outstanding Student Leader
+•  Huawei Major Technological Breakthrough Award 
+•  Huawei 2012 Lab Star
+•  Huawei Hisilicon Chip Star
+•  Runner-Up at Intelligent Algorithm Final of 2022 Alibaba Global "Future Vehicle" Intelligent Scene
+•  Innovation Challenge
+
 
 Publications
 ======
@@ -56,4 +61,17 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Reviewer
+  IEEE Transactions on Intelligent Transportation systems,
+  IEEE Transactions on Intelligent Vehicles,
+  IEEE Transactions on Artificial Intelligence,
+  IEEE/ASME Transactions on Mechatronics,
+  IEEE Transactions on Industrial Informatics,
+  IEEE Transactions on Vehicular Technology,
+  IEEE Transactions on Transportation Electrification,
+   IEEE Robotics and Automation Letters,
+   Vehicle System Dynamics,
+   Mechanical Systems and Signal Processing,
+   IEEE/CAA Journal of Automatica Sinica, Conference on Robot Learning, et al.
+* Guest Editor
+  Machines, Special Issue "New Trends in Robotics and Automation"
