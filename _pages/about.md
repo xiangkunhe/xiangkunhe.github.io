@@ -13,7 +13,6 @@ This is Dr. He home on the web.
 I am broadly interested in reinforcement learning, robust machine learning, trustworthy AI, and their applications in decision and control for autonomous driving and robotics. My vision is to enable machines to reach or even surpass humans in terms of intelligence, safety, robustness and trustworthiness, through theoretical, applied and interdisciplinary research. 
 
 Selected Publications
-======
 1. Xiangkun He, Haohan Yang, Zhongxu Hu, Chen Lv. Robust Lane Change Decision Making for Autonomous Vehicles: An Observation Adversarial Reinforcement Learning Approach. IEEE Transactions on Intelligent Vehicles. 2022. (ESI Highly Cited Paper)
 
   This study proposes a novel observation adversarial reinforcement learning approach for robust lane change decision making of autonomous vehicles.
