@@ -58,5 +58,5 @@ IEEE Transactions on Artificial Intelligence
 X He, C Lv, X Ji, Y Liu
 2022 6th CAA International Conference on Vehicular Control and Intelligence (CVCI). (CVCI 2022 Best Paper Runner Up Award)
 
-    this paper presents a novel model-based reinforcement learning solution for driving behavior decision-making of autonomous vehicles in emergency situations. 
+    This paper presents a novel model-based reinforcement learning solution for driving behavior decision-making of autonomous vehicles in emergency situations. 
 
