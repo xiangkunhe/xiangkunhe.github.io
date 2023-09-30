@@ -6,6 +6,9 @@ main:
     
   - title: "Honors and Awards"
     url: /publications/  
+  
+  - title: "Education"
+    url: /teaching/  
     
   - title: "CV"
     url: /cv/
