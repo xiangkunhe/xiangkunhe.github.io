@@ -9,11 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in Mechatronics, Yanshan University, 2012
-* M.S. in Advanced Driving Assistance System, Jilin University, 2015
-* Ph.D in Decision & Control for Autonomous Driving, Tsinghua University, 2019
 
 Work experience
 ======
@@ -27,18 +22,6 @@ Work experience
   * Duties included: Reinforcement Learning, Autonomous Vehicles, AI chips
   * Supervisor: Jun Wang, Jianye Hao
   
-Honors and Awards
-======
-* Best Paper Runner Up Award at 2022 6th CAA International Conference on Vehicular Control and Intelligence 
-* Best Paper Finalist Award at 2020 IEEE International Conference on Mechatronics and Automation 
-* 1st Class Outstanding Paper Award of China Journal of Highway and Transport 
-* Tsinghua University Outstanding Doctoral Thesis Award
-* Tsinghua University Outstanding Student Leader
-* Huawei Major Technological Breakthrough Award 
-* Huawei 2012 Lab Star
-* Huawei Hisilicon Chip Star
-* Runner-Up at Intelligent Algorithm Final of 2022 Alibaba Global "Future Vehicle" Intelligent Scene
-* Innovation Challenge
 
 Service and leadership
 ======
