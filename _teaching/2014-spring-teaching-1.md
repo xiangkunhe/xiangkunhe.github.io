@@ -7,8 +7,9 @@ permalink: /teaching/2014-spring-teaching-1
 #date: 2014-01-01
 #location: "City, Country"
 ---
-
-This is a description of a teaching experience. You can use markdown like any other post.
+* B.S. in Mechatronics, Yanshan University, 2012
+* M.S. in Advanced Driving Assistance System, Jilin University, 2015
+* Ph.D in Decision & Control for Autonomous Driving, Tsinghua University, 2019
 
 Heading 1
 ======
