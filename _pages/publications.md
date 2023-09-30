@@ -2,7 +2,7 @@
 layout: archive
 title: "Honors and Awards"
 permalink: /publications/
-author_profile: false
+author_profile: true
 ---
 
 {% if author.googlescholar %}
