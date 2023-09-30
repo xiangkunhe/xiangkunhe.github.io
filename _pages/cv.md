@@ -17,15 +17,15 @@ Education
 
 Work experience
 ======
-* 11/2021-Present: Research Fellow
+* Dec.2021-Present: Research Fellow at the School of MAE
   * Nanyang Technological University
-  * Duties included: Reinforcement Learning & Decision Making   & Autonomous Driving
-  * Supervisor: Professor Git
+  * Duties included: Autonomous Vehicles,Intelligent Transportation systems, Robotics, Reinforcement Learning
+  * Supervisor: Chen Lv
 
-* 3/2019-10/2021: Senior Research Scientist
-  * Noah's Ark Lab of Huawei Technologies
-  * Duties included: Reinforcement Learning & Decision Making   & Autonomous Driving
-  * Supervisor: Professor Hub
+* Mar.2019-Oct.2021: Senior Researcher in the Decision Making & Reasoning Group at Noah's Ark Lab
+  * Huawei Technologies Co.,Ltd
+  * Duties included: Reinforcement Learning, Autonomous Vehicles, AI chips
+  * Supervisor: Jun Wang, Jianye Hao
   
 Honors and Awards
 ======
