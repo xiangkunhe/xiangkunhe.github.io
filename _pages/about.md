@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+# title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,9 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-This is Dr. He home on the web.
+I received his PhD degree in 2019 from the School of Vehicle and Mobility, Tsinghua University, Beijing, China. 
+From 2019 to 2021, he served as a Senior Researcher at Huawei Noah's Ark Lab.
+I am currently a Research Fellow at Nanyang Technological University, Singapore.
 
-I am broadly interested in reinforcement learning, robust machine learning, trustworthy AI, and their applications in decision and control for autonomous driving and robotics. My vision is to enable machines to reach or even surpass humans in terms of intelligence, safety, robustness and trustworthiness, through theoretical, applied and interdisciplinary research. 
+My research interests lie at the intersection of machine autonomy and trustworthy AI, spanning the
+entire spectrum from models and algorithms to applications in autonomous vehicles, electric vehicles,
+intelligent transportation systems (ITS), and robotics, in which I have contributed over 40 papers
+and hold 8 granted patents.
+My vision is to build trustworthy machine intelligence and systems capable of ensuring robustness,
+safety, adaptability, and cooperativeness in safety-critical tasks or complex and uncertain environ-
+ments, with a special focus on applied research in intelligent vehicles and transportation systems,
+as well as foundational research in models and algorithms.
+	
 
 
 Selected Publications
