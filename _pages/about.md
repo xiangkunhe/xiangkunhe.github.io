@@ -16,6 +16,7 @@ My research interests lie at the intersection of machine autonomy and trustworth
 entire spectrum from models and algorithms to applications in autonomous vehicles, electric vehicles,
 intelligent transportation systems (ITS), and robotics, in which I have contributed over 40 papers
 and hold 8 granted patents.
+
 My vision is to build trustworthy machine intelligence and systems capable of ensuring robustness,
 safety, adaptability, and cooperativeness in safety-critical tasks or complex and uncertain environ-
 ments, with a special focus on applied research in intelligent vehicles and transportation systems,
