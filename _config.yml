@@ -6,11 +6,11 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "Singapore"
+locale                   : "Nanyang Technological University, Singapore"
 title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Xiangkun He"
-description              : &description "Research fellow at Nanyang Technological University"
+description              : &description "Research Fellow"
 url                      : https://xiangkunhe.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "xiangkunhe.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Xiangkun He"
   avatar           : "hxk_png.png"
-  bio              : " Research Fellow at Nanyang Technological University, Singapore. 
+  bio              : "
 	My research interests include autonomous vehicles, reinforcement learning, trustworthy AI, decision and control."
   location         : "Singapore"
   employer         :
