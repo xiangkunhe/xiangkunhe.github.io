@@ -3,20 +3,4 @@ main:
   - title: "About me"
     url: /About me/
   
-  - title: "News"
-    url: /news/
-    
-  - title: "Publications"
-    url: /publications/  
-  
-  - title: "Honors and Awards"
-    url: /honors/  
-    
-  - title: "Talks and Teaching"
-    url: /tt/
 
-    - title: "Professional Services"
-    url: /ps/
-
-    - title: "Memberships and ORCID iD"
-    url: /mo/
