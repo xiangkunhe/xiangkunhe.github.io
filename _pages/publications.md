@@ -5,60 +5,33 @@ permalink: /publications/
 author_profile: true
 ---
 
-1. Xiangkun He, Haohan Yang, Zhongxu Hu, Chen Lv. Robust Lane Change Decision Making for Autonomous Vehicles: An Observation Adversarial Reinforcement Learning Approach. IEEE Transactions on Intelligent Vehicles. 2022. (ESI Highly Cited Paper)
+1. Xiangkun He, Jingda Wu, Zhiyu Huang, Zhongxu Hu, Jun Wang, Alberto Sangiovanni-Vincentelli, and Chen Lv, “[Fear-Neuro-Inspired Reinforcement
+Learning for Safe Autonomous Driving](https://drive.google.com/file/d/1Am1PPxNzBXIXiyxXQ87TPOCQtW1DQbYc/view?usp=sharing),” IEEE Transactions on Pattern Analysis and Machine Intelligence, 2023.
 
-    This study proposes a novel observation adversarial reinforcement learning approach for robust lane change decision making of autonomous vehicles.
+2. Xiangkun He,Haohan Yang, Zhongxu Hu, and Chen Lv, “[Robust lane change decision making for autonomous vehicles: An observation adversarial reinforcement learning
+approach](https://www.researchgate.net/publication/359776714_Robust_Lane_Change_Decision_Making_for_Autonomous_Vehicles_An_Observation_Adversarial_Reinforcement_Learning_Approach),” IEEE Transactions on Intelligent Vehicles, 2022. (ESI Highly Cited Paper).
 
-    [Download paper here](https://www.researchgate.net/publication/359776714_Robust_Lane_Change_Decision_Making_for_Autonomous_Vehicles_An_Observation_Adversarial_Reinforcement_Learning_Approach)
+3. Xiangkun He, Baichuan Lou, Haohan Yang, and Chen Lv, “[Robust decision making for autonomous vehicles at highway on-ramps: A constrained adversarial reinforcement learning approach](https://www.researchgate.net/publication/366452372_Robust_Decision_Making_for_Autonomous_Vehicles_at_Highway_On-Ramps_A_Constrained_Adversarial_Reinforcement_Learning_Approach),” IEEE Transactions on Intelligent Transportation Systems, 2022.
 
-2. Xiangkun He, Baichuan Lou, Haohan Yang, Chen Lv. Robust Decision Making for Autonomous Vehicles at Highway On-Ramps: A Constrained Adversarial Reinforcement Learning Approach. IEEE Transactions on Intelligent Transportation Systems. 2022.
+4. Xiangkun He and Chen Lv, “[Toward personalized decision making for autonomous vehicles: A constrained multi-objective reinforcement learning technique](https://www.researchgate.net/publication/374338188_Toward_Personalized_Decision_Making_for_Autonomous_Vehicles_A_Constrained_Multi-Objective_Reinforcement_Learning_Technique),” Transportation Research Part C: Emerging Technologies,2023.
 
-    This work proposes a novel constrained adversarial reinforcement learning approach for robust decision making of autonomous vehicles.
+5. Xiangkun He and Chen Lv, “[Toward Intelligent Connected E-Mobility: Energy-Aware Cooperative Driving With Deep Multiagent Reinforcement Learning](https://www.researchgate.net/publication/372589389_Toward_Intelligent_Connected_E-Mobility_Energy-Aware_Cooperative_Driving_With_Deep_Multiagent_Reinforcement_Learning),” IEEE Vehicular Technology Magazine,2023. 
 
-    [Download paper here](https://www.researchgate.net/publication/369552496_Robust_Decision_Making_for_Autonomous_Vehicles_at_Highway_On-Ramps_A_Constrained_Adversarial_Reinforcement_Learning_Approach)
+6. Xiangkun He and Chen Lv, “[Towards Energy-Efficient Autonomous Driving: A Multi-Objective Reinforcement Learning Approach](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10113610),” IEEE/CAA Journal of Automatica Sinica, 2023.
 
-3. Toward personalized decision making for autonomous vehicles: A constrained multi-objective reinforcement learning technique
-X He, C Lv
-Transportation Research Part C: Emerging Technologies 156, 104352
+7. Xiangkun He and Chen Lv, “[Robotic Control in Adversarial and Sparse Reward Environments: A Robust Goal-Conditioned Reinforcement Learning Approach](https://www.researchgate.net/publication/367217691_Robotic_Control_in_Adversarial_and_Sparse_Reward_Environments_A_Robust_Goal-Conditioned_Reinforcement_Learning_Approach),” IEEE Transactions on Artificial Intelligence, 2023.
 
-    We present a novel constrained multi-objective reinforcement learning technique for personalized decision making in autonomous driving, with the goal of learning a single model for Pareto optimal policies across the space of all possible user preferences.
+8. Xiangkun He,Yulong Liu, Chen Lv, Xuewu Ji, and Yahui Liu, “[Emergency steering control of autonomous vehicle for collision avoidance and stabilisation](https://www.researchgate.net/publication/328690797_Emergency_steering_control_of_autonomous_vehicle_for_collision_avoidance_and_stabilisation),” Vehicle system dynamics,2019.
 
-    [Download paper here](https://www.sciencedirect.com/science/article/abs/pii/S0968090X2300342X?via%3Dihub)
+9.  Xiangkun He,Chen Lv, Xuewu Ji, and Yahui Liu, “[Emergency Collision Avoidance Decision-making for Autonomous Vehicles: A Model-based Reinforcement Learning
+Approach](https://www.researchgate.net/publication/366148709_Emergency_Collision_Avoidance_Decision-making_for_Autonomous_Vehicles_A_Model-based_Reinforcement_Learning_Approach),” in 2022 6th CAA International Conference on Vehicular Control and Intelligence (CVCI),IEEE, 2022. (Best Paper Runner-Up Award).
 
-4. Toward Intelligent Connected E-Mobility: Energy-Aware Cooperative Driving With Deep Multiagent Reinforcement Learning
-X He, C Lv
-IEEE Vehicular Technology Magazine
+10. Xuewu Ji, Cong Fei, Xiangkun He,Yulong Liu, and Yahui Liu, “[Intention recognition and trajectory prediction for vehicles using LSTM network](https://www.researchgate.net/publication/360213803_Intention_recognition_and_trajectory_prediction_for_vehicles_using_LSTM_network_jiyuLSTMwangluodejiashiyitushibiejicheliangguijiyuce),” China Journal of Highway and Transport,2019. (1st Class Outstanding Paper Award, CNKI Highly Cited Paper).
 
-    We present a novel deep multi-agent reinforcement learning-enabled energy-aware cooperative driving solution, facilitating connected and autonomous electric vehicles to learn vehicular platoon management policies for guaranteeing overall traffic flow performance.
+11. Yulong Liu, Yahui Liu, Xuewu Ji, Liting Sun, Masayoshi Tomizuka, and Xiangkun He, “[Learning from demonstration: Situation-adaptive lane change trajectory planning for automated highway driving](https://www.researchgate.net/publication/346415094_Learning_from_Demonstration_Situation-Adaptive_Lane_Change_Trajectory_Planning_for_Automated_Highway_Driving),” in 2020 IEEE International Conference on Mechatronics and Automation (ICMA),IEEE, 2020. (Best Paper Finalist Award).
 
-    [Download paper here](https://www.researchgate.net/publication/372589389_Toward_Intelligent_Connected_E-Mobility_Energy-Aware_Cooperative_Driving_With_Deep_Multiagent_Reinforcement_Learning)
+12. Guangfei Xu, Xiangkun He,Meizhou Chen, Hequan Miao, Huanxiao Pang, Jian Wu, Peisong Diao, and Wenjun Wang, “[Hierarchical speed control for autonomous electric vehicle through deep reinforcement learning and robust control](https://www.researchgate.net/publication/355353595_Hierarchical_speed_control_for_autonomous_electric_vehicle_through_deep_reinforcement_learning_and_robust_control),” IET Control Theory & Applications,2022. (Wiley Outstanding Open Science Author, Wiley Top Downloaded Article).
 
-5. Towards Energy-Efficient Autonomous Driving: A Multi-Objective Reinforcement Learning Approach
-X He, C Lv
-IEEE/CAA Journal of Automatica Sinica 10 (5), 1329-1331
+13. Xuewu Ji, Yahui Liu, Kaiming Yang, and Xiangkun He, “[Trend of passenger car steering system with electronic control](https://www.journalase.com/CN/10.3969/j.issn.1674-8484.2015.03.002),” Journal of Automotive Safety and Energy ,2015. (CNKI Highly Cited Paper).
 
-    Here a novel MORL approach, called multi-objective actor-critic, is proposed for user-preference-conditioned decision-making that trades off the energy consumption and travel efficiency of autonomous electric vehicles.
-
-    [Download paper here](https://www.researchgate.net/publication/370446444_Towards_Energy-Efficient_Autonomous_Driving_A_Multi-Objective_Reinforcement_Learning_Approach)
-
-6. Emergency steering control of autonomous vehicle for collision avoidance and stabilisation
-X He, Y Liu, C Lv, X Ji, Y Liu
-Vehicle system dynamics 57 (8), 1163-1187
-
-    In order to avoid collision while stabilising autonomous vehicle under dynamic driving situations at handling limits, this paper proposes a novel emergency steering control strategy based on hierarchical control architecture consisting of decision-making layer and motion control layer.
-
-    [Download paper here](https://www.researchgate.net/publication/328690797_Emergency_steering_control_of_autonomous_vehicle_for_collision_avoidance_and_stabilisation)
-7. Robotic Control in Adversarial and Sparse Reward Environments: A Robust Goal-Conditioned Reinforcement Learning Approach
-X He, C Lv
-IEEE Transactions on Artificial Intelligence
-
-    This work advances a novel robust goal-conditioned reinforcement learning approach for end-to-end robotic control in adversarial and sparse reward environments.
-
-    [Download paper here](https://ieeexplore.ieee.org/document/10018434)
-8. Emergency Collision Avoidance Decision-making for Autonomous Vehicles: A Model-based Reinforcement Learning Approach
-X He, C Lv, X Ji, Y Liu
-2022 6th CAA International Conference on Vehicular Control and Intelligence (CVCI). (CVCI 2022 Best Paper Runner Up Award)
-
-    This paper presents a novel model-based reinforcement learning solution for driving behavior decision-making of autonomous vehicles in emergency situations. 
-
-    [Download paper here](https://www.researchgate.net/publication/366148709_Emergency_Collision_Avoidance_Decision-making_for_Autonomous_Vehicles_A_Model-based_Reinforcement_Learning_Approach)
+Please see my [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=xpyS8ksAAAAJ) for a full list of publications.
