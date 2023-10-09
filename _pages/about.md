@@ -21,6 +21,6 @@ My vision is to build trustworthy machine intelligence and systems capable of en
 safety, adaptability, and cooperativeness in safety-critical tasks or complex and uncertain environments, with a special focus on applied research in intelligent vehicles and transportation systems,
 as well as foundational research in models and algorithms.
 
-<center>
+<div style="text-align:center;">
 <img src="../images/AI-1009-.jpg" alt="AI-" width="300" height="180"><img src="../images/AI-1009.jpg" alt="AI" width="300" height="180">
-</center>
+</div>
