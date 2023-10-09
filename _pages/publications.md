@@ -9,7 +9,8 @@ author_profile: true
 Learning for Safe Autonomous Driving](https://drive.google.com/file/d/1Am1PPxNzBXIXiyxXQ87TPOCQtW1DQbYc/view?usp=sharing),” IEEE Transactions on Pattern Analysis and Machine Intelligence, 2023.
 
 2. Xiangkun He,Haohan Yang, Zhongxu Hu, and Chen Lv, “[Robust lane change decision making for autonomous vehicles: An observation adversarial reinforcement learning
-approach](https://www.researchgate.net/publication/359776714_Robust_Lane_Change_Decision_Making_for_Autonomous_Vehicles_An_Observation_Adversarial_Reinforcement_Learning_Approach),” IEEE Transactions on Intelligent Vehicles, 2022. (ESI Highly Cited Paper).
+approach](https://www.researchgate.net/publication/359776714_Robust_Lane_Change_Decision_Making_for_Autonomous_Vehicles_An_Observation_Adversarial_Reinforcement_Learning_Approach),” IEEE Transactions on Intelligent Vehicles, 2022.
+(ESI Highly Cited Paper).
 
 3. Xiangkun He, Baichuan Lou, Haohan Yang, and Chen Lv, “[Robust decision making for autonomous vehicles at highway on-ramps: A constrained adversarial reinforcement learning approach](https://www.researchgate.net/publication/366452372_Robust_Decision_Making_for_Autonomous_Vehicles_at_Highway_On-Ramps_A_Constrained_Adversarial_Reinforcement_Learning_Approach),” IEEE Transactions on Intelligent Transportation Systems, 2022.
 
@@ -24,14 +25,23 @@ approach](https://www.researchgate.net/publication/359776714_Robust_Lane_Change_
 8. Xiangkun He,Yulong Liu, Chen Lv, Xuewu Ji, and Yahui Liu, “[Emergency steering control of autonomous vehicle for collision avoidance and stabilisation](https://www.researchgate.net/publication/328690797_Emergency_steering_control_of_autonomous_vehicle_for_collision_avoidance_and_stabilisation),” Vehicle system dynamics,2019.
 
 9.  Xiangkun He,Chen Lv, Xuewu Ji, and Yahui Liu, “[Emergency Collision Avoidance Decision-making for Autonomous Vehicles: A Model-based Reinforcement Learning
-Approach](https://www.researchgate.net/publication/366148709_Emergency_Collision_Avoidance_Decision-making_for_Autonomous_Vehicles_A_Model-based_Reinforcement_Learning_Approach),” in 2022 6th CAA International Conference on Vehicular Control and Intelligence (CVCI),IEEE, 2022. (Best Paper Runner-Up Award).
+Approach](https://www.researchgate.net/publication/366148709_Emergency_Collision_Avoidance_Decision-making_for_Autonomous_Vehicles_A_Model-based_Reinforcement_Learning_Approach),” in 2022 6th CAA International Conference on Vehicular Control and Intelligence (CVCI),IEEE, 2022.
+(Best Paper Runner-Up Award).
 
-10. Xuewu Ji, Cong Fei, Xiangkun He,Yulong Liu, and Yahui Liu, “[Intention recognition and trajectory prediction for vehicles using LSTM network](https://www.researchgate.net/publication/360213803_Intention_recognition_and_trajectory_prediction_for_vehicles_using_LSTM_network_jiyuLSTMwangluodejiashiyitushibiejicheliangguijiyuce),” China Journal of Highway and Transport,2019. (1st Class Outstanding Paper Award, CNKI Highly Cited Paper).
+10. Xuewu Ji, Xiangkun He, Chen Lv, Yahui Liu, and Jian Wu, “[Adaptive-neural-network-based robust lateral motion control for autonomous vehicle at
+driving limits](https://drive.google.com/file/d/1Chk6kWnLpUuaCSJ4an9sRVZ-5_M4I5OF/view),” Control Engineering Practice, 2018.
 
-11. Yulong Liu, Yahui Liu, Xuewu Ji, Liting Sun, Masayoshi Tomizuka, and Xiangkun He, “[Learning from demonstration: Situation-adaptive lane change trajectory planning for automated highway driving](https://www.researchgate.net/publication/346415094_Learning_from_Demonstration_Situation-Adaptive_Lane_Change_Trajectory_Planning_for_Automated_Highway_Driving),” in 2020 IEEE International Conference on Mechatronics and Automation (ICMA),IEEE, 2020. (Best Paper Finalist Award).
+11. Xuewu Ji, Xiangkun He, Chen Lv, Yahui Liu, and Jian Wu, “[A vehicle stability control strategy with adaptive neural network sliding mode theory based on system uncertainty approximation](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.researchgate.net/profile/Xiangkun-He-2/publication/320728058_A_vehicle_stability_control_strategy_with_adaptive_neural_network_sliding_mode_theory_based_on_system_uncertainty_approximation/links/5c468cbf299bf12be3d9f68c/A-vehicle-stability-control-strategy-with-adaptive-neural-network-sliding-mode-theory-based-on-system-uncertainty-approximation.pdf),” Vehicle System Dynamics, 2018.
 
-12. Guangfei Xu, Xiangkun He,Meizhou Chen, Hequan Miao, Huanxiao Pang, Jian Wu, Peisong Diao, and Wenjun Wang, “[Hierarchical speed control for autonomous electric vehicle through deep reinforcement learning and robust control](https://www.researchgate.net/publication/355353595_Hierarchical_speed_control_for_autonomous_electric_vehicle_through_deep_reinforcement_learning_and_robust_control),” IET Control Theory & Applications,2022. (Wiley Outstanding Open Science Author, Wiley Top Downloaded Article).
+12. Xuewu Ji, Cong Fei, Xiangkun He,Yulong Liu, and Yahui Liu, “[Intention recognition and trajectory prediction for vehicles using LSTM network](https://www.researchgate.net/publication/360213803_Intention_recognition_and_trajectory_prediction_for_vehicles_using_LSTM_network_jiyuLSTMwangluodejiashiyitushibiejicheliangguijiyuce),” China Journal of Highway and Transport,2019.
+(1st Class Outstanding Paper Award, CNKI Highly Cited Paper).
 
-13. Xuewu Ji, Yahui Liu, Kaiming Yang, and Xiangkun He, “[Trend of passenger car steering system with electronic control](https://www.journalase.com/CN/10.3969/j.issn.1674-8484.2015.03.002),” Journal of Automotive Safety and Energy ,2015. (CNKI Highly Cited Paper).
+13. Yulong Liu, Yahui Liu, Xuewu Ji, Liting Sun, Masayoshi Tomizuka, and Xiangkun He, “[Learning from demonstration: Situation-adaptive lane change trajectory planning for automated highway driving](https://www.researchgate.net/publication/346415094_Learning_from_Demonstration_Situation-Adaptive_Lane_Change_Trajectory_Planning_for_Automated_Highway_Driving),” in 2020 IEEE International Conference on Mechatronics and Automation (ICMA),IEEE, 2020. (Best Paper Finalist Award).
+
+14. Guangfei Xu, Xiangkun He,Meizhou Chen, Hequan Miao, Huanxiao Pang, Jian Wu, Peisong Diao, and Wenjun Wang, “[Hierarchical speed control for autonomous electric vehicle through deep reinforcement learning and robust control](https://www.researchgate.net/publication/355353595_Hierarchical_speed_control_for_autonomous_electric_vehicle_through_deep_reinforcement_learning_and_robust_control),” IET Control Theory & Applications,2022.
+(Wiley Outstanding Open Science Author, Wiley Top Downloaded Article).
+
+15. Xuewu Ji, Yahui Liu, Kaiming Yang, and Xiangkun He, “[Trend of passenger car steering system with electronic control](https://www.journalase.com/CN/10.3969/j.issn.1674-8484.2015.03.002),” Journal of Automotive Safety and Energy ,2015.
+(CNKI Highly Cited Paper).
 
 Please see my [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=xpyS8ksAAAAJ) for a full list of publications.
