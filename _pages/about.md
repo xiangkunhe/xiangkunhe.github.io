@@ -21,8 +21,6 @@ My vision is to build trustworthy machine intelligence and systems capable of en
 safety, adaptability, and cooperativeness in safety-critical tasks or complex and uncertain environments, with a special focus on applied research in intelligent vehicles and transportation systems,
 as well as foundational research in models and algorithms.
 <br><br>
-&nbsp;&nbsp;**Adversarial Attacks and Robust Defenses**
-
-**for Intelligent Systems** &nbsp;&nbsp; **Brain-Like Machine Intelligence**
+**Adversarial Attacks and Robust Defensesfor Intelligent Systems**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Brain-Like Machine Intelligence**
 <img src="../images/AI-1009-.jpg" alt="Adversarial Attacks and Robust Defenses for Intelligent Systems" title="Adversarial Attacks and Robust Defenses for Intelligent Systems" width="300" height="180"><img src="../images/AI-1009.jpg" alt="Brain-Like Machine Intelligence" title="Brain-Like Machine Intelligence" align = "right" width="300" height="180">
 
