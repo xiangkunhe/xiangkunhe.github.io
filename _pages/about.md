@@ -14,7 +14,7 @@ I am currently a Research Fellow at Nanyang Technological University, Singapore.
 
 My research interests lie at the intersection of machine autonomy and trustworthy AI, spanning the
 entire spectrum from models and algorithms to applications in autonomous vehicles, electric vehicles,
-intelligent transportation systems (ITS), and robotics, in which I have contributed over 40 papers
+intelligent transportation systems, and robotics, in which I have contributed over 40 papers
 and hold 8 granted patents.
 
 My vision is to build trustworthy machine intelligence and systems capable of ensuring robustness,
