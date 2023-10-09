@@ -5,7 +5,7 @@ permalink: /sitemap/
 author_profile: true
 ---
 
-2022 - **Robust Reinforcement Learning for Decision and Control in Autonomous Driving**<br>
+2022 - **Robust Reinforcement Learning for Decision and Control in Autonomous Driving**
 * Department of Engineering and Applied Sciences, Sophia University.<br>
 * Key Laboratory of Mechanism Theory and Equipment Design, Ministry of Education, Tianjin University.<br><br>
 
