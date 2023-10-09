@@ -22,6 +22,6 @@ safety, adaptability, and cooperativeness in safety-critical tasks or complex an
 as well as foundational research in models and algorithms.
 
 <div style="display: flex;">
-<img src="../images/AI-1009-.png" alt="AI-" style="max-width: 80%;">
-<img src="../images/AI-1009.png" alt="AI-" style="max-width: 80%;">
+<img src="../images/AI-1009-.jpg" alt="AI-" style="max-width: 80%;">
+<img src="../images/AI-1009.jpg" alt="AI-" style="max-width: 80%;">
 </div>
