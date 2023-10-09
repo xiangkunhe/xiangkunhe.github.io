@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I received his PhD degree in 2019 from the School of Vehicle and Mobility, Tsinghua University, Beijing, China. 
+I received my PhD degree in 2019 from the School of Vehicle and Mobility, Tsinghua University, Beijing, China. 
 From 2019 to 2021, he served as a Senior Researcher at Huawei Noah's Ark Lab.
 I am currently a Research Fellow at Nanyang Technological University, Singapore.
 
