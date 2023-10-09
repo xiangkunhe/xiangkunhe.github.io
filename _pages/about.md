@@ -21,5 +21,6 @@ My vision is to build trustworthy machine intelligence and systems capable of en
 safety, adaptability, and cooperativeness in safety-critical tasks or complex and uncertain environments, with a special focus on applied research in intelligent vehicles and transportation systems,
 as well as foundational research in models and algorithms.
 	
-![Adversarial Attacks and Robust Defenses for Intelligent Systems](images/20231009.png)
+![Adversarial Attacks and Robust Defenses for Intelligent Systems](../images/20231009.png)
+<img src="images/20231009.png" alt="Adversarial Attacks and Robust Defenses for Intelligent Systems" width="300" height="300">
 
