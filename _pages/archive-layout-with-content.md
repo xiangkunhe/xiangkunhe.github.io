@@ -2,6 +2,7 @@
 title: "Honors and Awards"
 layout: archive
 permalink: /archive-layout-with-content/
+author_profile: true
 ---
 
 
