@@ -3,4 +3,5 @@ main:
   - title: "About me"
     url: /About me/
   
-
+  - title: "Selected Publications"
+    url: /publications/  
