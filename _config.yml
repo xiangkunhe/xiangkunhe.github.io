@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Xiangkun He"
   avatar           : "hxk_png.png"
-  bio              : "Research Fellow, Nanyang Technological University"
-  location         : "Singapore"
-  employer         : #"Nanyang Technological University"
+  bio              : "Research Fellow"
+  location         : "Nanyang Technological University"
+  employer         : "Singapore"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=xpyS8ksAAAAJ&hl=zh-CN"
   email            : "xiangkun.he@ntu.edu.sg"
