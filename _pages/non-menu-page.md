@@ -5,8 +5,7 @@ permalink: /non-menu-page/
 author_profile: true
 ---
 
-**Guest Editor**: [Machines](https://www.mdpi.com/journal/machines) (SCI, Q2, IF: 2.6)
-
+**Guest Editor**: [Machines](https://www.mdpi.com/journal/machines) (SCI, Q2, IF: 2.6)<br>
 Special Issue: [New Trends in Robotics and Automation](https://www.mdpi.com/journal/machines/special_issues/7DR1AL0KQ5)
 
 **Journal Reviewer**: IEEE Transactions on Intelligent Transportation Systems, IEEE Transactions on Intelligent Vehicles, IEEE/ASME Transactions on
