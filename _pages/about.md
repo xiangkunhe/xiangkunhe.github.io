@@ -20,6 +20,8 @@ and hold 8 granted patents.
 My vision is to build trustworthy machine intelligence and systems capable of ensuring robustness,
 safety, adaptability, and cooperativeness in safety-critical tasks or complex and uncertain environments, with a special focus on applied research in intelligent vehicles and transportation systems,
 as well as foundational research in models and algorithms.
-	
-<img src="../images/20231009.png" alt="OpenAI Logo" style="max-width: 50%;">
 
+<div style="display: flex;">
+<img src="../images/AI-1009-.png" alt="AI-" style="max-width: 80%;">
+<img src="../images/AI-1009.png" alt="AI-" style="max-width: 80%;">
+</div>
