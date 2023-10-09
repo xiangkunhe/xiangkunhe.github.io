@@ -18,8 +18,7 @@ intelligent transportation systems (ITS), and robotics, in which I have contribu
 and hold 8 granted patents.
 
 My vision is to build trustworthy machine intelligence and systems capable of ensuring robustness,
-safety, adaptability, and cooperativeness in safety-critical tasks or complex and uncertain environ-
-ments, with a special focus on applied research in intelligent vehicles and transportation systems,
+safety, adaptability, and cooperativeness in safety-critical tasks or complex and uncertain environments, with a special focus on applied research in intelligent vehicles and transportation systems,
 as well as foundational research in models and algorithms.
 	
 
