@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I received my PhD degree in 2019 from the School of Vehicle and Mobility, Tsinghua University, Beijing, China. 
-From 2019 to 2021, I served as a Senior Researcher at Huawei Noah's Ark Lab.
 I am currently a Research Fellow at Nanyang Technological University, Singapore.
+From 2019 to 2021, I served as a Senior Researcher at Huawei Noah's Ark Lab.
+I received my PhD degree in 2019 from the School of Vehicle and Mobility, Tsinghua University, Beijing, China. 
 
 My research interests lie at the intersection of machine autonomy and trustworthy AI, spanning the
 entire spectrum from models and algorithms to applications in autonomous vehicles, electric vehicles,
