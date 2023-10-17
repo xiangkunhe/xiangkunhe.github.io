@@ -11,6 +11,7 @@ redirect_from:
 
 
 * 2023.10: Our study on Brain-Like Machine Intelligence (**[Fear-Neuro-Inspired Reinforcement Learning for Safe Autonomous Driving](https://www.researchgate.net/publication/374522737_Fear-Neuro-Inspired_Reinforcement_Learning_for_Safe_Autonomous_Driving)**) has been accepted by **[IEEE TPAMI](https://ieeexplore.ieee.org/document/10273631)**!
+* 2023.10: Our study on Trustworthy Decision Making for Autonomous Vehicles (**[Toward Trustworthy Decision Making for Autonomous Vehicles: A Robust Reinforcement Learning Approach with Safety Guarantees](https://drive.google.com/file/d/1u2KVw01LIJpFCeiHb4ukHASsMq9kqmfj/view?usp=sharing)**) has been accepted by **[Engineering](https://www.sciencedirect.com/journal/engineering)**!
 * 2023.09: Our study on Multi-Objective Decision Making for Autonomous Driving  (**[Toward personalized decision making for autonomous vehicles: A constrained multi-objective reinforcement learning technique](https://www.researchgate.net/publication/374338188_Toward_Personalized_Decision_Making_for_Autonomous_Vehicles_A_Constrained_Multi-Objective_Reinforcement_Learning_Technique)**) has been accepted by **[Transportation
 Research Part C: Emerging Technologies](https://www.sciencedirect.com/science/article/abs/pii/S0968090X2300342X)**!
 * 2023.09: Our study on Sampling Efficient Reinforcement Learning  (**[Sampling efficient deep reinforcement learning through preference-guided stochastic
