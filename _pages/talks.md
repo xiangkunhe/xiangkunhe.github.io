@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Talks and Teaching"
-permalink: /sitemap/
+permalink: /talks/
 author_profile: true
 ---
 
