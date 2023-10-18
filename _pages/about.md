@@ -15,7 +15,7 @@ I received my PhD degree in 2019 from the School of Vehicle and Mobility, Tsingh
 <p align="justify">My research interests lie at the intersection of machine autonomy and trustworthy AI, spanning the entire spectrum from models and algorithms to applications in autonomous driving, electric vehicles, intelligent transportation systems, and robotics, in which I have contributed over 40 papers and hold 8 granted patents.</p>
 
 <p align="justify">My vision is to build trustworthy machine intelligence and systems capable of ensuring robustness, safety, adaptability, and cooperativeness in safety-critical tasks or complex and uncertain environments, with a special focus on applied research in intelligent vehicles and transportation systems, as well as foundational research in models and algorithms. 
-This potentially involves formulating adversarial conditions, providing provable guarantees, optimizing for multiple objectives, modeling swarm intelligence, and designing system architectures.
+This potentially involves formulating adversarial conditions, providing provable guarantees, optimizing for multiple objectives, modeling multi-agent behaviors, and designing system architectures.
 Since I research the fundamental principles of trustworthy machine intelligence and systems, the insights gained have the potential to create a broad impact, such as applications in humanoid robots, AI chips, industrial mechatronics, and medical equipment.</p>
 
 <img src="../images/my_AI.png" alt="Adversarial Attacks and Robust Defenses for Intelligent Systems & Brain-Like Machine Intelligence" title="Adversarial Attacks and Robust Defenses for Intelligent Systems & Brain-Like Machine Intelligence" align = "center">
