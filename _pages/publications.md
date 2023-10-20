@@ -24,16 +24,16 @@ approach](https://www.researchgate.net/publication/359776714_Robust_Lane_Change_
 
 8. Xiangkun He and Chen Lv, “[Robotic Control in Adversarial and Sparse Reward Environments: A Robust Goal-Conditioned Reinforcement Learning Approach](https://www.researchgate.net/publication/367217691_Robotic_Control_in_Adversarial_and_Sparse_Reward_Environments_A_Robust_Goal-Conditioned_Reinforcement_Learning_Approach),” IEEE Transactions on Artificial Intelligence, 2023.
 
-9. Xiangkun He,Yulong Liu, Chen Lv, Xuewu Ji, and Yahui Liu, “[Emergency steering control of autonomous vehicle for collision avoidance and stabilisation](https://www.researchgate.net/publication/328690797_Emergency_steering_control_of_autonomous_vehicle_for_collision_avoidance_and_stabilisation),” Vehicle system dynamics,2019.
+9. Xiangkun He,Yulong Liu, Chen Lv, Xuewu Ji, and Yahui Liu, “[Emergency steering control of autonomous vehicle for collision avoidance and stabilisation](https://www.researchgate.net/publication/328690797_Emergency_steering_control_of_autonomous_vehicle_for_collision_avoidance_and_stabilisation),” Vehicle system dynamics,2019. (**100+ Citations**)
 
 10.  Xiangkun He,Chen Lv, Xuewu Ji, and Yahui Liu, “[Emergency Collision Avoidance Decision-making for Autonomous Vehicles: A Model-based Reinforcement Learning
 Approach](https://www.researchgate.net/publication/366148709_Emergency_Collision_Avoidance_Decision-making_for_Autonomous_Vehicles_A_Model-based_Reinforcement_Learning_Approach),” in 2022 6th CAA International Conference on Vehicular Control and Intelligence (CVCI),IEEE, 2022.
 (**Best Paper Runner-Up Award**).
 
 11. Xuewu Ji, Xiangkun He, Chen Lv, Yahui Liu, and Jian Wu, “[Adaptive-neural-network-based robust lateral motion control for autonomous vehicle at
-driving limits](https://drive.google.com/file/d/1Chk6kWnLpUuaCSJ4an9sRVZ-5_M4I5OF/view),” Control Engineering Practice, 2018.
+driving limits](https://drive.google.com/file/d/1Chk6kWnLpUuaCSJ4an9sRVZ-5_M4I5OF/view),” Control Engineering Practice, 2018. (**200+ Citations**)
 
-12. Xuewu Ji, Xiangkun He, Chen Lv, Yahui Liu, and Jian Wu, “[A vehicle stability control strategy with adaptive neural network sliding mode theory based on system uncertainty approximation](https://www.researchgate.net/profile/Xiangkun-He-2/publication/320728058_A_vehicle_stability_control_strategy_with_adaptive_neural_network_sliding_mode_theory_based_on_system_uncertainty_approximation/links/5c468cbf299bf12be3d9f68c/A-vehicle-stability-control-strategy-with-adaptive-neural-network-sliding-mode-theory-based-on-system-uncertainty-approximation.pdf),” Vehicle System Dynamics, 2018.
+12. Xuewu Ji, Xiangkun He, Chen Lv, Yahui Liu, and Jian Wu, “[A vehicle stability control strategy with adaptive neural network sliding mode theory based on system uncertainty approximation](https://www.researchgate.net/profile/Xiangkun-He-2/publication/320728058_A_vehicle_stability_control_strategy_with_adaptive_neural_network_sliding_mode_theory_based_on_system_uncertainty_approximation/links/5c468cbf299bf12be3d9f68c/A-vehicle-stability-control-strategy-with-adaptive-neural-network-sliding-mode-theory-based-on-system-uncertainty-approximation.pdf),” Vehicle System Dynamics, 2018. 
 
 13. Xuewu Ji, Cong Fei, Xiangkun He,Yulong Liu, and Yahui Liu, “[Intention recognition and trajectory prediction for vehicles using LSTM network](https://www.researchgate.net/publication/360213803_Intention_recognition_and_trajectory_prediction_for_vehicles_using_LSTM_network_jiyuLSTMwangluodejiashiyitushibiejicheliangguijiyuce),” China Journal of Highway and Transport,2019.
 <br>(**1st Class Outstanding Paper Award, CNKI Highly Cited Paper**).
