@@ -12,9 +12,9 @@ redirect_from:
 From 2019 to 2021, I served as a Senior Researcher at Huawei Noah's Ark Lab.
 I received my PhD degree in 2019 from the School of Vehicle and Mobility, Tsinghua University, Beijing, China.</p>
 
-<p align="justify">My research interests lie at the intersection of machine autonomy and trustworthy AI, spanning the entire spectrum from models and algorithms to applications in autonomous driving, electric vehicles, intelligent transportation systems, and robotics, in which I have contributed over 40 papers and hold 8 granted patents.</p>
+<p align="justify">My research interests lie at the intersection of machine autonomy and trustworthy AI, spanning the entire spectrum from models and algorithms to applications in robotics, autonomous driving, intelligent transportation systems, in which I have contributed over 40 papers and hold 8 granted patents.</p>
 
-<p align="justify">My vision is to build trustworthy machine intelligence and systems capable of ensuring robustness, safety, adaptability, and cooperativeness in safety-critical tasks or complex and uncertain environments, with a special focus on applied research in intelligent vehicles and transportation systems, as well as foundational research in models and algorithms. 
+<p align="justify">My vision is to build trustworthy machine intelligence and systems capable of ensuring robustness, safety, adaptability, and cooperativeness in safety-critical tasks or complex and uncertain environments, with a special focus on applied research in autonomous mobile systems, as well as foundational research in models and algorithms. 
 This potentially involves formulating adversarial conditions, providing provable guarantees, optimizing for multiple objectives, modeling multi-agent behaviors, and designing system architectures.
 Since I research the fundamental principles of trustworthy machine intelligence and systems, the insights gained have the potential to create a broad impact, such as applications in humanoid robots, AI chips, industrial mechatronics, and medical equipment.</p>
 
