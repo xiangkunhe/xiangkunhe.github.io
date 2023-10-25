@@ -22,6 +22,6 @@ Since I research the fundamental principles of trustworthy machine intelligence 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[Video Demonstration](https://www.bilibili.com/video/BV1uM4y147H2/?spm_id_from=333.999.0.0&vd_source=71620ac61fcf7851589c019bff140478)**
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[Video Demonstration](https://www.bilibili.com/video/BV1E34y1T73M/?spm_id_from=333.999.0.0&vd_source=71620ac61fcf7851589c019bff140478)**
 
-<img src="../images/Autonomous Mobility_.png" alt="Autonomous Mobility" title="Autonomous Mobility" align = "center">
+<img src="../images/Autonomous-Mobility.png" alt="Autonomous Mobility" title="Autonomous Mobility" align = "center">
 
 
