@@ -20,6 +20,7 @@ exploration](https://arxiv.org/pdf/2206.09627)) has been accepted by [IEEE Trans
 * 2023.09: Our research on **Transformer-Enabled Reinforcement Learning for Autonomous Navigation** ([Goal-guided transformer-enabled reinforcement learning for efficient autonomous navigation](https://arxiv.org/pdf/2301.00362)) has been accepted by IEEE Transactions on Intelligent Transportation Systems!
 * 2023.07: Our research on **Energy-Aware Cooperative Driving** ([Toward Intelligent Connected E-Mobility: Energy-Aware Cooperative Driving With Deep Multiagent Reinforcement Learning](https://www.researchgate.net/publication/372589389_Toward_Intelligent_Connected_E-Mobility_Energy-Aware_Cooperative_Driving_With_Deep_Multiagent_Reinforcement_Learning)) has been accepted by IEEE Vehicular Technology Magazine!
 * 2023.05: Our research on **Energy-Efficient Autonomous Driving** ([Towards Energy-Efficient Autonomous Driving: A Multi-Objective Reinforcement Learning Approach](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10113610)) has been accepted by IEEE/CAA Journal of Automatica Sinica!
+* 2023.01: Our research on **Robust Goal-Conditioned Robotic Control** ([Robotic Control in Adversarial and Sparse Reward Environments: A Robust Goal-Conditioned Reinforcement Learning Approach](https://www.researchgate.net/publication/367217691_Robotic_Control_in_Adversarial_and_Sparse_Reward_Environments_A_Robust_Goal-Conditioned_Reinforcement_Learning_Approach)) has been accepted by IEEE Transactions on Artificial Intelligence!
 
 
   
