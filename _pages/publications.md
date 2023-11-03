@@ -24,7 +24,7 @@ approach](https://www.researchgate.net/publication/359776714_Robust_Lane_Change_
 
 8. Xiangkun He and Chen Lv, “[Robotic Control in Adversarial and Sparse Reward Environments: A Robust Goal-Conditioned Reinforcement Learning Approach](https://www.researchgate.net/publication/367217691_Robotic_Control_in_Adversarial_and_Sparse_Reward_Environments_A_Robust_Goal-Conditioned_Reinforcement_Learning_Approach),” IEEE Transactions on Artificial Intelligence, 2023.
 
-9. Xiangkun He, Zhongxu Hu, Haohan Yang, and Chen Lv, “Personalized Robotic Control via Constrained Multi-Objective Reinforcement Learning,” Neurocomputing, 2023. (Accepted).
+9. Xiangkun He, Zhongxu Hu, Haohan Yang, and Chen Lv, “[Personalized Robotic Control via Constrained Multi-Objective Reinforcement Learning](https://www.researchgate.net/publication/375254025_Personalized_robotic_control_via_constrained_multi-objective_reinforcement_learning),” Neurocomputing, 2023.
 
 10. Xiangkun He,Yulong Liu, Chen Lv, Xuewu Ji, and Yahui Liu, “[Emergency steering control of autonomous vehicle for collision avoidance and stabilisation](https://www.researchgate.net/publication/328690797_Emergency_steering_control_of_autonomous_vehicle_for_collision_avoidance_and_stabilisation),” Vehicle system dynamics,2019. (**100+ Citations**)
 
