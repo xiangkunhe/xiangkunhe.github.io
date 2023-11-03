@@ -28,7 +28,7 @@ approach](https://www.researchgate.net/publication/359776714_Robust_Lane_Change_
 
 10. Xiangkun He,Yulong Liu, Chen Lv, Xuewu Ji, and Yahui Liu, “[Emergency steering control of autonomous vehicle for collision avoidance and stabilisation](https://www.researchgate.net/publication/328690797_Emergency_steering_control_of_autonomous_vehicle_for_collision_avoidance_and_stabilisation),” Vehicle system dynamics,2019. (**100+ Citations**)
 
-11.  Xiangkun He,Chen Lv, Xuewu Ji, and Yahui Liu, “[Emergency Collision Avoidance Decision-making for Autonomous Vehicles: A Model-based Reinforcement Learning
+11.  Xiangkun He, Chen Lv, Xuewu Ji, and Yahui Liu, “[Emergency Collision Avoidance Decision-making for Autonomous Vehicles: A Model-based Reinforcement Learning
 Approach](https://www.researchgate.net/publication/366148709_Emergency_Collision_Avoidance_Decision-making_for_Autonomous_Vehicles_A_Model-based_Reinforcement_Learning_Approach),” in 2022 6th CAA International Conference on Vehicular Control and Intelligence (CVCI),IEEE, 2022.
 (**Best Paper Runner-Up Award**).
 
