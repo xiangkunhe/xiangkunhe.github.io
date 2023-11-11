@@ -7,7 +7,7 @@ author_profile: true
 
 * **Wiley Outstanding Open Science Author** - 2023
 
-* **Best Paper Runner-Up Award at 2022 6th CAA International Conference on Vehicular Control and Intelligence** - 2022
+* **Best Paper Runner-Up Award at CAA International Conference on Vehicular Control and Intelligence** - 2022
 
 * **Runner-Up at Intelligent Algorithm Final of Alibaba Global Future Vehicle Challenge** - 2022
 
