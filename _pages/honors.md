@@ -19,7 +19,7 @@ author_profile: true
 
 * **First-Class Outstanding Paper Award of China Journal of Highway and Transport** - 2021
 
-* **Best Paper Finalist Award at 2020 IEEE International Conference on Mechatronics and Automation** - 2020
+* **Best Paper Finalist Award at IEEE International Conference on Mechatronics and Automation** - 2020
 
 * **Tsinghua University Outstanding Doctoral Dissertation Award** - 2019
 
