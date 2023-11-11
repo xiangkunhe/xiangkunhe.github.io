@@ -17,7 +17,7 @@ author_profile: true
 
 * **Huawei 2012 Lab Star** - 2021
 
-* **1st Class Outstanding Paper Award of China Journal of Highway and Transport** - 2021
+* **First-Class Outstanding Paper Award of China Journal of Highway and Transport** - 2021
 
 * **Best Paper Finalist Award at 2020 IEEE International Conference on Mechatronics and Automation** - 2020
 
