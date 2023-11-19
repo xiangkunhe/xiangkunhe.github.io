@@ -23,7 +23,7 @@ author_profile: true
 
 * **Tsinghua University Outstanding Doctoral Dissertation Award** - 2019
 
-* **Tsinghua University Comprehensive Excellence Scholarship** - 2018, 2017
+* **Tsinghua University Comprehensive Outstanding Scholarship** - 2018, 2017
 
 * **Tsinghua University Outstanding Student Leader** - 2017
 
