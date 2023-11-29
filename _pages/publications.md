@@ -38,7 +38,7 @@ driving limits](https://drive.google.com/file/d/1Chk6kWnLpUuaCSJ4an9sRVZ-5_M4I5O
 13. Xuewu Ji, Xiangkun He, Chen Lv, Yahui Liu, and Jian Wu, “[A vehicle stability control strategy with adaptive neural network sliding mode theory based on system uncertainty approximation](https://www.researchgate.net/profile/Xiangkun-He-2/publication/320728058_A_vehicle_stability_control_strategy_with_adaptive_neural_network_sliding_mode_theory_based_on_system_uncertainty_approximation/links/5c468cbf299bf12be3d9f68c/A-vehicle-stability-control-strategy-with-adaptive-neural-network-sliding-mode-theory-based-on-system-uncertainty-approximation.pdf),” Vehicle System Dynamics, 2018. 
 
 14. Xuewu Ji, Cong Fei, Xiangkun He,Yulong Liu, and Yahui Liu, “[Intention recognition and trajectory prediction for vehicles using LSTM network](https://www.researchgate.net/publication/360213803_Intention_recognition_and_trajectory_prediction_for_vehicles_using_LSTM_network_jiyuLSTMwangluodejiashiyitushibiejicheliangguijiyuce),” China Journal of Highway and Transport,2019.
-<br>(**1st Class Outstanding Paper Award, CNKI Highly Cited Paper**).
+<br>(**First-Class Outstanding Paper Award, CNKI Highly Cited Paper**).
 
 15. Yulong Liu, Yahui Liu, Xuewu Ji, Liting Sun, Masayoshi Tomizuka, and Xiangkun He, “[Learning from demonstration: Situation-adaptive lane change trajectory planning for automated highway driving](https://www.researchgate.net/publication/346415094_Learning_from_Demonstration_Situation-Adaptive_Lane_Change_Trajectory_Planning_for_Automated_Highway_Driving),” in 2020 IEEE International Conference on Mechatronics and Automation (ICMA),IEEE, 2020. (**Best Paper Finalist Award**).
 
