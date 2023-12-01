@@ -12,4 +12,6 @@ Special Issue: [New Trends in Robotics and Automation](https://www.mdpi.com/jour
 
 **Conference Reviewer**:  Conference on Robot Learning, IEEE/RSJ International Conference on Intelligent Robots and Systems, IEEE International Conference on Intelligent Transportation Systems, IEEE Intelligent Vehicles Symposium, Annual Conference of the IEEE Industrial Electronics Society, IEEE Transportation Electrification Conference and Expo, IEEE International Conference on Industrial Technology, IFAC World Congress, WCX SAE World Congress Experience, and so on.
 
+**Professional Membership**: Institute of Electrical and Electronics Engineers (IEEE), IEEE Young Professionals.
+
 
