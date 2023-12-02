@@ -22,20 +22,23 @@ Since I dive into the fundamental principles of trustworthy machine intelligence
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[Video Demonstration](https://www.bilibili.com/video/BV1uM4y147H2/?spm_id_from=333.999.0.0&vd_source=71620ac61fcf7851589c019bff140478)**
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[Video Demonstration](https://www.bilibili.com/video/BV1E34y1T73M/?spm_id_from=333.999.0.0&vd_source=71620ac61fcf7851589c019bff140478)**
 
-|Non-Robust Autonomous Driving Agent|Robust Autonomous Driving Agent|
+|[Non-Robust Autonomous Driving Agent](https://www.researchgate.net/publication/375974081_Toward_Trustworthy_Decision-Making_for_Autonomous_Vehicles_A_Robust_Reinforcement_Learning_Approach_with_Safety_Guarantees)|[Robust Autonomous Driving Agent](https://www.researchgate.net/publication/375974081_Toward_Trustworthy_Decision-Making_for_Autonomous_Vehicles_A_Robust_Reinforcement_Learning_Approach_with_Safety_Guarantees)|
 |:----------------------------:|:----------------------------:|
 |<img src="../images/sac.gif" align="middle" width="485"/>|<img src="../images/my.gif" align="middle" width="485"/>|
 |<img src="../images/sac_a.gif" align="middle" width="485"/>|<img src="../images/my_a.gif" align="middle" width="485"/>|
 
-|AI Driver vs Human Driver against Aggressive Cut-In|AI Driver vs Human Driver against Extremely Aggressive Cut-In|
+|[AI vs Human on Aggressive Cut-In Task](https://www.researchgate.net/publication/374522737_Fear-Neuro-Inspired_Reinforcement_Learning_for_Safe_Autonomous_Driving)|[AI vs Human on Extremely Aggressive Cut-In Task](https://www.researchgate.net/publication/374522737_Fear-Neuro-Inspired_Reinforcement_Learning_for_Safe_Autonomous_Driving)|
 |:----------------------------:|:----------------------------:|
 |<img src="../images/1.gif" align="middle" width="485"/>|<img src="../images/2.gif" align="middle" width="485"/>|
 
-|Non-Robust Autonomous Driving Agent|Robust Autonomous Driving Agent|
+|[Unprotected Left Turn at An Unsignalized Intersection with Oncoming Trafﬁc](https://www.researchgate.net/publication/374522737_Fear-Neuro-Inspired_Reinforcement_Learning_for_Safe_Autonomous_Driving)|[Right Turn at An
+Unsignalized Intersection with Crossing Trafﬁc](https://www.researchgate.net/publication/374522737_Fear-Neuro-Inspired_Reinforcement_Learning_for_Safe_Autonomous_Driving)|
 |:----------------------------:|:----------------------------:|
-|<img src="../images/sac.gif" align="middle" width="485"/>|<img src="../images/my.gif" align="middle" width="485"/>|
-|Non-Robust Autonomous Driving Agent|Robust Autonomous Driving Agent|
-|<img src="../images/sac.gif" align="middle" width="485"/>|<img src="../images/my.gif" align="middle" width="485"/>|
+|<img src="../images/env-(a).gif" align="middle" width="300"/>|<img src="../images/env-(b).gif" align="middle" width="300"/>|
+|**[Unprotected Left Turn at An Unsignalized Intersection with Mixed Trafﬁc Flows](https://www.researchgate.net/publication/374522737_Fear-Neuro-Inspired_Reinforcement_Learning_for_Safe_Autonomous_Driving)**|**[Crossing Negotiation at An Unsignalized Intersection with Mixed Trafﬁc Flows](https://www.researchgate.net/publication/374522737_Fear-Neuro-Inspired_Reinforcement_Learning_for_Safe_Autonomous_Driving)**|
+|<img src="../images/env-(c).gif" align="middle" width="300"/>|<img src="../images/env-(d).gif" align="middle" width="300"/>|
+|**[Long-Term Goal-Driven Navigation with Mixed Trafﬁc Flows: Case-1](https://www.researchgate.net/publication/374522737_Fear-Neuro-Inspired_Reinforcement_Learning_for_Safe_Autonomous_Driving)**|**[Long-Term Goal-Driven Navigation with Mixed Trafﬁc Flows: Case-2](https://www.researchgate.net/publication/374522737_Fear-Neuro-Inspired_Reinforcement_Learning_for_Safe_Autonomous_Driving)**|
+|<img src="../images/env-(e)-1.gif" align="middle" width="485"/>|<img src="../images/env-(e)-2.gif" align="middle" width="485"/>|
 
 
 <img src="../images/Autonomous-Mobility.png" alt="Autonomous Mobility" title="Autonomous Mobility" align = "center">
