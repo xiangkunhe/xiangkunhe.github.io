@@ -1,4 +1,4 @@
-![image](https://github.com/xiangkunhe/xiangkunhe.github.io/assets/146346776/ca509723-3b5e-4f6f-8427-252225f6ca2e)---
+---
 permalink: /
 title: "About Me"
 excerpt: "About me"
