@@ -27,10 +27,9 @@ Since I research the fundamental principles of trustworthy machine intelligence 
 |<img src="../images/sac.gif" align="middle" width="485"/>|<img src="../images/my.gif" align="middle" width="485"/>|
 |<img src="../images/sac_a.gif" align="middle" width="485"/>|<img src="../images/my_a.gif" align="middle" width="485"/>|
 
-|Non-Robust Autonomous Driving Agent                          |Robust Autonomous Driving Agent                         |
+|AI Driver vs Human Driver in Aggressive Cut-In Scenario                          |AI Driver vs Human Driver in Extremely Aggressive Cut-In Scenario                         |
 |----------------------------|----------------------------|
-|<img src="../images/sac.gif" align="middle" width="485"/>|<img src="../images/my.gif" align="middle" width="485"/>|
-|<img src="../images/sac_a.gif" align="middle" width="485"/>|<img src="../images/my_a.gif" align="middle" width="485"/>|
+|<img src="../images/1.gif" align="middle" width="485"/>|<img src="../images/2.gif" align="middle" width="485"/>|
 
 
 <img src="../images/Autonomous-Mobility.png" alt="Autonomous Mobility" title="Autonomous Mobility" align = "center">
