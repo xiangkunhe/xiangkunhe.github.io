@@ -5,15 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-<div class='paper-box'><div class='paper-box-image'><img src="../images/fni-rl.png" alt="sym" width="500"></div>
-<div class='paper-box-text' markdown="1">
-
-1. Xiangkun He, Jingda Wu, Zhiyu Huang, Zhongxu Hu, Jun Wang, Alberto Sangiovanni-Vincentelli, and Chen Lv, “[Fear-Neuro-Inspired Reinforcement
-Learning for Safe Autonomous Driving](https://www.researchgate.net/publication/374522737_Fear-Neuro-Inspired_Reinforcement_Learning_for_Safe_Autonomous_Driving),” IEEE Transactions on Pattern Analysis and Machine Intelligence, 2023.
--  A brain-like machine intelligence paradigm is devised by introducing an adversarial imagination mechanism into a constrained reinforcement learning framework, allowing AI agents to acquire a sense of fear, thereby enhancing or ensuring safety.
-</div>
-</div>
-
 1. Xiangkun He, Jingda Wu, Zhiyu Huang, Zhongxu Hu, Jun Wang, Alberto Sangiovanni-Vincentelli, and Chen Lv, “[Fear-Neuro-Inspired Reinforcement
 Learning for Safe Autonomous Driving](https://www.researchgate.net/publication/374522737_Fear-Neuro-Inspired_Reinforcement_Learning_for_Safe_Autonomous_Driving),” IEEE Transactions on Pattern Analysis and Machine Intelligence, 2023.
 
