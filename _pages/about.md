@@ -27,12 +27,12 @@ Since I dive into the fundamental principles of trustworthy machine intelligence
 |<img src="../images/sac.gif" align="middle" width="485"/>|<img src="../images/my.gif" align="middle" width="485"/>|
 |<img src="../images/sac_a.gif" align="middle" width="485"/>|<img src="../images/my_a.gif" align="middle" width="485"/>|
 
-|AI Driver vs Human Driver on Aggressive Cut-In Task|AI Driver vs Human Driver on Extremely Aggressive Cut-In Task|
+|AI Driver vs Human Driver against Aggressive Cut-In|AI Driver vs Human Driver against Extremely Aggressive Cut-In|
 |:----------------------------:|:----------------------------:|
 |<img src="../images/1.gif" align="middle" width="485"/>|<img src="../images/2.gif" align="middle" width="485"/>|
 
 |Non-Robust Autonomous Driving Agent|Robust Autonomous Driving Agent|
-|:--------------------------------------------------------:|
+|:----------------------------:|:----------------------------:|
 |<img src="../images/sac.gif" align="middle" width="485"/>|<img src="../images/my.gif" align="middle" width="485"/>|
 |<img src="../images/sac_a.gif" align="middle" width="485"/>|<img src="../images/my_a.gif" align="middle" width="485"/>|
 
