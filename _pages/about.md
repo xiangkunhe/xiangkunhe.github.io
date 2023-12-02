@@ -23,12 +23,12 @@ Since I dive into the fundamental principles of trustworthy machine intelligence
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[Video Demonstration](https://www.bilibili.com/video/BV1E34y1T73M/?spm_id_from=333.999.0.0&vd_source=71620ac61fcf7851589c019bff140478)**
 
 |Non-Robust Autonomous Driving Agent|Robust Autonomous Driving Agent|
-|----------------------------|----------------------------|
+|:----------------------------:|:----------------------------:|
 |<img src="../images/sac.gif" align="middle" width="485"/>|<img src="../images/my.gif" align="middle" width="485"/>|
 |<img src="../images/sac_a.gif" align="middle" width="485"/>|<img src="../images/my_a.gif" align="middle" width="485"/>|
 
-|AI Driver vs Human Driver in Aggressive Cut-In Scenario|AI Driver vs Human Driver in Extremely Aggressive Cut-In Scenario|
-|----------------------------|----------------------------|
+|AI Driver vs Human Driver on Aggressive Cut-In Task|AI Driver vs Human Driver on Extremely Aggressive Cut-In Task|
+|:----------------------------:|:----------------------------:|
 |<img src="../images/1.gif" align="middle" width="485"/>|<img src="../images/2.gif" align="middle" width="485"/>|
 
 
