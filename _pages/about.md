@@ -31,15 +31,13 @@ Since I dive into the fundamental principles of trustworthy machine intelligence
 |:----------------------------:|:----------------------------:|
 |<img src="../images/1.gif" align="middle" width="485"/>|<img src="../images/2.gif" align="middle" width="485"/>|
 
-|[Unprotected Left Turn at An Unsignalized Intersection with Oncoming Trafﬁc](https://www.researchgate.net/publication/374522737_Fear-Neuro-Inspired_Reinforcement_Learning_for_Safe_Autonomous_Driving)|[Right Turn at An
-Unsignalized Intersection with Crossing Trafﬁc](https://www.researchgate.net/publication/374522737_Fear-Neuro-Inspired_Reinforcement_Learning_for_Safe_Autonomous_Driving)|
+|[Unprotected Left Turn at An Unsignalized Intersection with Oncoming Trafﬁc](https://www.researchgate.net/publication/374522737_Fear-Neuro-Inspired_Reinforcement_Learning_for_Safe_Autonomous_Driving)|[Right Turn at An Unsignalized Intersection with Crossing Trafﬁc](https://www.researchgate.net/publication/374522737_Fear-Neuro-Inspired_Reinforcement_Learning_for_Safe_Autonomous_Driving)|
 |:----------------------------:|:----------------------------:|
 |<img src="../images/env-(a).gif" align="middle" width="300"/>|<img src="../images/env-(b).gif" align="middle" width="300"/>|
 |**[Unprotected Left Turn at An Unsignalized Intersection with Mixed Trafﬁc Flows](https://www.researchgate.net/publication/374522737_Fear-Neuro-Inspired_Reinforcement_Learning_for_Safe_Autonomous_Driving)**|**[Crossing Negotiation at An Unsignalized Intersection with Mixed Trafﬁc Flows](https://www.researchgate.net/publication/374522737_Fear-Neuro-Inspired_Reinforcement_Learning_for_Safe_Autonomous_Driving)**|
 |<img src="../images/env-(c).gif" align="middle" width="300"/>|<img src="../images/env-(d).gif" align="middle" width="300"/>|
-|**[Long-Term Goal-Driven Navigation with Mixed Trafﬁc Flows: Case-1](https://www.researchgate.net/publication/374522737_Fear-Neuro-Inspired_Reinforcement_Learning_for_Safe_Autonomous_Driving)**|**[Long-Term Goal-Driven Navigation with Mixed Trafﬁc Flows: Case-2](https://www.researchgate.net/publication/374522737_Fear-Neuro-Inspired_Reinforcement_Learning_for_Safe_Autonomous_Driving)**|
+|**[Long-Term Goal-Driven Navigation with Mixed Trafﬁc Flows-1](https://www.researchgate.net/publication/374522737_Fear-Neuro-Inspired_Reinforcement_Learning_for_Safe_Autonomous_Driving)**|**[Long-Term Goal-Driven Navigation with Mixed Trafﬁc Flows-2](https://www.researchgate.net/publication/374522737_Fear-Neuro-Inspired_Reinforcement_Learning_for_Safe_Autonomous_Driving)**|
 |<img src="../images/env-(e)-1.gif" align="middle" width="485"/>|<img src="../images/env-(e)-2.gif" align="middle" width="485"/>|
-
 
 <img src="../images/Autonomous-Mobility.png" alt="Autonomous Mobility" title="Autonomous Mobility" align = "center">
 
