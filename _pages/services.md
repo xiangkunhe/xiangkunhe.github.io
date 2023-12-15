@@ -14,4 +14,5 @@ Special Issue: [New Trends in Robotics and Automation](https://www.mdpi.com/jour
 
 **Professional Membership**: Institute of Electrical and Electronics Engineers (IEEE), IEEE Young Professionals.
 
+**Award Committee**: [Autonomous Driving Control Benchmark Challenge](https://cdc2023.ieeecss.org/benchmark-challenge/) at the 62nd IEEE Conference on Decision and Control (CDC 2023)
 
