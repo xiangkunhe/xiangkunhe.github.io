@@ -5,7 +5,7 @@ permalink: /honors/
 author_profile: true
 ---
 
-* **IEEE Spectrum Magazine: [Neural Reactions to Fear Make AI Drive More Safely](https://spectrum.ieee.org/autonomous-vehicle-safety-defensive-driving)**
+* **IEEE Spectrum Magazine: [Neural Reactions to Fear Make AI Drive More Safely](https://spectrum.ieee.org/autonomous-vehicle-safety-defensive-driving)** - 2023
 
 * **Wiley Outstanding Open Science Author** - 2023
 
