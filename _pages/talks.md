@@ -5,6 +5,10 @@ permalink: /talks/
 author_profile: true
 ---
 
+2024 - **Trustworthy Machine Intelligence for Autonomous Mobility**
+* Intelligent Transportation Thrust, Systems Hub, the Hong Kong University of Science and Technology (Guangzhou).<br>
+* Department of Mechanical and Energy Engineering, Southern University of Science and Technology.<br><br>
+
 2022 - **Robust Reinforcement Learning for Decision and Control in Autonomous Driving**
 * Department of Engineering and Applied Sciences, Sophia University.<br>
 * Key Laboratory of Mechanism Theory and Equipment Design, Ministry of Education, Tianjin University.<br><br>
