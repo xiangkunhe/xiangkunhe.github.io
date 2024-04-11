@@ -9,7 +9,7 @@ author_profile: true
 * Tsinghua-Berkeley Shenzhen Institute, Institute of Data and Information, Tsinghua SIGS, Tsinghua University.
 * Intelligent Transportation Thrust, Systems Hub, the Hong Kong University of Science and Technology (Guangzhou).<br>
 * Department of Mechanical and Energy Engineering, Southern University of Science and Technology.<br>
-* School of Automotive Engineering，Wuhan University of Technology.<br><br>
+* School of Automotive Engineering, Wuhan University of Technology.<br><br>
 
 2023 - **Trustworthy Machine Intelligence for Autonomous Mobility**
 * School of Astronautics, Beijing University of Aeronautics and Astronautics.<br><br>
