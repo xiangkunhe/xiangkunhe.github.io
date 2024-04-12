@@ -9,6 +9,8 @@ author_profile: true
 
 **Award Committee**: [Autonomous Driving Control Benchmark Challenge](https://cdc2023.ieeecss.org/benchmark-challenge/) at the 62nd IEEE Conference on Decision and Control (CDC 2023).
 
+**Invited Session Organizer**: [Enhancing Trustworthiness and Resilience of Connected and Autonomous Vehicles in Adversarial Environments](https://www.researchgate.net/publication/379756126_Enhancing_Trustworthiness_and_Resilience_of_Connected_and_Autonomous_Vehicles_in_Adversarial_Environments) at the 27th IEEE International Conference on Intelligent Transportation Systems (ITSC 2024).
+
 **Guest Editor**: [Machines](https://www.mdpi.com/journal/machines) (SCI, Q2, IF: 2.6)<br>
 Special Issue: [New Trends in Robotics and Automation](https://www.mdpi.com/journal/machines/special_issues/7DR1AL0KQ5)
 
