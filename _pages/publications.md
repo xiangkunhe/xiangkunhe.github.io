@@ -37,7 +37,7 @@ Approach](https://www.researchgate.net/publication/366148709_Emergency_Collision
 <br>(**Best Paper Runner-Up Award**)
 
 14. Xiangkun He and Chen Lv, “[Towards safe autonomous driving: Decision making with observation-robust reinforcement learning](https://link.springer.com/article/10.1007/s42154-023-00256-x),” Automotive Innovation, 2023.
-<br>(Invited Paper, ESCI, IF: 6.1).
+<br>(**Invited Paper**)
 
 15. Xuewu Ji, Xiangkun He, Chen Lv, Yahui Liu, and Jian Wu, “[Adaptive-neural-network-based robust lateral motion control for autonomous vehicle at
 driving limits](https://drive.google.com/file/d/1Chk6kWnLpUuaCSJ4an9sRVZ-5_M4I5OF/view),” Control Engineering Practice, 2018. <br>(**200+ Citations**)
