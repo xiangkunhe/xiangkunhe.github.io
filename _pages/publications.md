@@ -42,7 +42,7 @@ Approach](https://www.researchgate.net/publication/366148709_Emergency_Collision
 15. Xuewu Ji, Xiangkun He, Chen Lv, Yahui Liu, and Jian Wu, “[Adaptive-neural-network-based robust lateral motion control for autonomous vehicle at
 driving limits](https://drive.google.com/file/d/1Chk6kWnLpUuaCSJ4an9sRVZ-5_M4I5OF/view),” Control Engineering Practice, 2018. <br>(**200+ Citations**)
 
-16. Xuewu Ji, Xiangkun He, Chen Lv, Yahui Liu, and Jian Wu, “[A vehicle stability control strategy with adaptive neural network sliding mode theory based on system uncertainty approximation](https://www.researchgate.net/profile/Xiangkun-He-2/publication/320728058_A_vehicle_stability_control_strategy_with_adaptive_neural_network_sliding_mode_theory_based_on_system_uncertainty_approximation/links/5c468cbf299bf12be3d9f68c/A-vehicle-stability-control-strategy-with-adaptive-neural-network-sliding-mode-theory-based-on-system-uncertainty-approximation.pdf),” Vehicle System Dynamics, 2018. 
+<!--16. Xuewu Ji, Xiangkun He, Chen Lv, Yahui Liu, and Jian Wu, “[A vehicle stability control strategy with adaptive neural network sliding mode theory based on system uncertainty approximation](https://www.researchgate.net/profile/Xiangkun-He-2/publication/320728058_A_vehicle_stability_control_strategy_with_adaptive_neural_network_sliding_mode_theory_based_on_system_uncertainty_approximation/links/5c468cbf299bf12be3d9f68c/A-vehicle-stability-control-strategy-with-adaptive-neural-network-sliding-mode-theory-based-on-system-uncertainty-approximation.pdf),” Vehicle System Dynamics, 2018. 
 
 17. Xuewu Ji, Cong Fei, Xiangkun He,Yulong Liu, and Yahui Liu, “[Intention recognition and trajectory prediction for vehicles using LSTM network](https://www.researchgate.net/publication/360213803_Intention_recognition_and_trajectory_prediction_for_vehicles_using_LSTM_network_jiyuLSTMwangluodejiashiyitushibiejicheliangguijiyuce),” China Journal of Highway and Transport, 2019.
 <br>(**First-Class Outstanding Paper Award, CNKI Highly Cited Paper**)
@@ -53,6 +53,6 @@ driving limits](https://drive.google.com/file/d/1Chk6kWnLpUuaCSJ4an9sRVZ-5_M4I5O
 <br>(**Wiley Outstanding Open Science Author**, **Wiley Top Downloaded Article**)
 
 20. Xuewu Ji, Yahui Liu, Kaiming Yang, and Xiangkun He, “[Trend of passenger car steering system with electronic control](https://www.journalase.com/CN/10.3969/j.issn.1674-8484.2015.03.002),” Journal of Automotive Safety and Energy, 2015.
-<br>(**CNKI Highly Cited Paper**)
+<br>(**CNKI Highly Cited Paper**)-->
 
 Please see my [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=xpyS8ksAAAAJ) for a full list of publications.
