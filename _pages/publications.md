@@ -14,13 +14,13 @@ Learning for Safe Autonomous Driving](https://www.researchgate.net/publication/3
 approach](https://www.researchgate.net/publication/359776714_Robust_Lane_Change_Decision_Making_for_Autonomous_Vehicles_An_Observation_Adversarial_Reinforcement_Learning_Approach),” IEEE Transactions on Intelligent Vehicles, 2022.
 <br>(**ESI Highly Cited Paper & 100+ Citations**)
 
-4. Xiangkun He, Wenhui Huang and Chen Lv, “[Trustworthy autonomous driving via defense-aware robust reinforcement learning against worst-case observational perturbations](https://authors.elsevier.com/c/1j15Y,M0mRV9Nw),” Transportation Research Part C: Emerging Technologies, 2024.
+4. Xiangkun He, Wenhui Huang and Chen Lv, “[Trustworthy autonomous driving via defense-aware robust reinforcement learning against worst-case observational perturbations](https://www.researchgate.net/publication/381075887_Trustworthy_autonomous_driving_via_defense-aware_robust_reinforcement_learning_against_worst-case_observational_perturbations),” Transportation Research Part C: Emerging Technologies, 2024.
 
 5. Xiangkun He and Chen Lv, “[Toward personalized decision making for autonomous vehicles: A constrained multi-objective reinforcement learning technique](https://www.researchgate.net/publication/374338188_Toward_Personalized_Decision_Making_for_Autonomous_Vehicles_A_Constrained_Multi-Objective_Reinforcement_Learning_Technique),” Transportation Research Part C: Emerging Technologies, 2023.
 
 6. Xiangkun He, Wenhui Huang and Chen Lv, “[Toward Trustworthy Decision-Making for Autonomous Vehicles: A Robust Reinforcement Learning Approach with Safety Guarantees](https://www.researchgate.net/publication/375974081_Toward_Trustworthy_Decision-Making_for_Autonomous_Vehicles_A_Robust_Reinforcement_Learning_Approach_with_Safety_Guarantees),” Engineering, 2023. <br>(**The Official Journal of the Chinese Academy of Engineering**)
 
-7. Xiangkun He,Jianye Hao, Xu Chen, Jun Wang, Xuewu Ji, and Chen Lv, “[Robust Multi-Objective Reinforcement Learning Considering Environmental Uncertainties](https://drive.google.com/file/d/1oKSJOxoTw0B6uo9okSwZewBgYfhj2s8e/view?usp=sharing),” IEEE Transactions on Neural Networks and Learning Systems, 2024.
+7. Xiangkun He, Jianye Hao, Xu Chen, Jun Wang, Xuewu Ji, and Chen Lv, “[Robust Multi-Objective Reinforcement Learning Considering Environmental Uncertainties](https://www.researchgate.net/publication/380822429_Robust_Multiobjective_Reinforcement_Learning_Considering_Environmental_Uncertainties),” IEEE Transactions on Neural Networks and Learning Systems, 2024.
 
 8. Xiangkun He and Chen Lv, “[Toward Intelligent Connected E-Mobility: Energy-Aware Cooperative Driving With Deep Multiagent Reinforcement Learning](https://www.researchgate.net/publication/372589389_Toward_Intelligent_Connected_E-Mobility_Energy-Aware_Cooperative_Driving_With_Deep_Multiagent_Reinforcement_Learning),” IEEE Vehicular Technology Magazine, 2023. 
 
