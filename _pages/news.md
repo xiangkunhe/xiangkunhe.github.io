@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+* 2024.07: Our Special Issue on ** [Advanced Autonomous Mobility toward Low-Altitude Economy and Three-Dimensional Transportation Systems](https://www.mdpi.com/journal/drones/special_issues/4AXW065XBE)** has been accepted by Drones (**IF: 4.4; WOS-JIF: Q1; CAS-JCR: Q2**)!
 * 2024.05: Our research on **Robust Multi-Objective Reinforcement Learning** ([Robust Multi-Objective Reinforcement Learning Considering Environmental Uncertainties](https://drive.google.com/file/d/1oKSJOxoTw0B6uo9okSwZewBgYfhj2s8e/view?usp=sharing)) has been accepted by IEEE Transactions on Neural Networks and Learning Systems!
 * 2024.04: Our research on **Trustworthy Autonomous Driving** ([Trustworthy Autonomous Driving via Defense-Aware Robust Reinforcement Learning against Worst-Case Observational Perturbations](https://authors.elsevier.com/c/1j15Y,M0mRV9Nw)) has been accepted by Transportation Research Part C: Emerging Technologies!
 * 2024.04: Our ITSC 2024 Invited Session-[Enhancing Trustworthiness and Resilience of Connected and Autonomous Vehicles in Adversarial Environments](https://www.researchgate.net/publication/379756126_Enhancing_Trustworthiness_and_Resilience_of_Connected_and_Autonomous_Vehicles_in_Adversarial_Environments) has been accepted! Welcome to choose our session! **Submission Code: 24gfd**
