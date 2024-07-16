@@ -5,6 +5,7 @@ permalink: /honors/
 author_profile: true
 ---
 
+* **Hundred Talents Program - University of Electronic Science and Technology of China** - 2024
 * **IEEE Spectrum Magazine: [Neural Reactions to Fear Make AI Drive More Safely](https://spectrum.ieee.org/autonomous-vehicle-safety-defensive-driving)** - 2023
 
 * **Wiley Outstanding Open Science Author** - 2023
@@ -27,7 +28,7 @@ author_profile: true
 
 * **Tsinghua University Comprehensive Outstanding Scholarship** - 2018, 2017
 
-* **Outstanding Paper at Annual Conference of Steering Technology Affiliate - China Society of Automotive Engineers (China-SAE)** - 2017
+* **Outstanding Paper at Annual Conference of Automotive Steering Technology Affiliate - China Society of Automotive Engineers (China-SAE)** - 2017
 
 * **Tsinghua University Outstanding Student Leader** - 2017
 
