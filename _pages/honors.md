@@ -28,7 +28,7 @@ author_profile: true
 
 * **Tsinghua University Comprehensive Outstanding Scholarship** - 2018, 2017
 
-* **Outstanding Paper Award at Annual Conference of Automotive Steering Technology Affiliate - China Society of Automotive Engineers (China-SAE)** - 2017
+* **Outstanding Paper at Annual Conference of Steering Technology - China Society of Automotive Engineers (China-SAE)** - 2017
 
 * **Tsinghua University Outstanding Student Leader** - 2017
 
