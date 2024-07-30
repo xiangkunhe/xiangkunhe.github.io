@@ -22,7 +22,7 @@ Learning for Safe Autonomous Driving](https://www.researchgate.net/publication/3
 
 8. Xiangkun He, Haohan Yang, Zhongxu Hu, and Chen Lv, “[Robust lane change decision making for autonomous vehicles: An observation adversarial reinforcement learning
 approach](https://www.researchgate.net/publication/359776714_Robust_Lane_Change_Decision_Making_for_Autonomous_Vehicles_An_Observation_Adversarial_Reinforcement_Learning_Approach),” *IEEE Transactions on Intelligent Vehicles*, 2022.
-<br>(**ESI Highly Cited Paper & 100+ Citations**)
+<br>(**100+ Citations & ESI Highly Cited Paper**)
 
 9. Xiangkun He and Chen Lv, “[Toward Intelligent Connected E-Mobility: Energy-Aware Cooperative Driving With Deep Multiagent Reinforcement Learning](https://www.researchgate.net/publication/372589389_Toward_Intelligent_Connected_E-Mobility_Energy-Aware_Cooperative_Driving_With_Deep_Multiagent_Reinforcement_Learning),” *IEEE Vehicular Technology Magazine*, 2023. 
 
