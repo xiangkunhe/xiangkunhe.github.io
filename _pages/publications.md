@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 1. Xiangkun He, Jingda Wu, Zhiyu Huang, Zhongxu Hu, Jun Wang, Alberto Sangiovanni-Vincentelli, and Chen Lv, “[Fear-Neuro-Inspired Reinforcement
-Learning for Safe Autonomous Driving](https://www.researchgate.net/publication/374522737_Fear-Neuro-Inspired_Reinforcement_Learning_for_Safe_Autonomous_Driving),” *IEEE Transactions on Pattern Analysis and Machine Intelligence*, 2023. <br>(**IEEE Spectrum Magazine: [Neural Reactions to Fear Make AI Drive More Safely](https://spectrum.ieee.org/autonomous-vehicle-safety-defensive-driving)**)
+Learning for Safe Autonomous Driving](https://www.researchgate.net/publication/374522737_Fear-Neuro-Inspired_Reinforcement_Learning_for_Safe_Autonomous_Driving),” *IEEE Transactions on Pattern Analysis and Machine Intelligence*, 2023. <br>(**IEEE Spectrum Magazine: [Neural Reactions to Fear Make AI Drive More Safely](https://spectrum.ieee.org/autonomous-vehicle-safety-defensive-driving) & ESI Highly Cited Paper**)
 
 2. Xiangkun He, Baichuan Lou, Haohan Yang, and Chen Lv, “[Robust decision making for autonomous vehicles at highway on-ramps: A constrained adversarial reinforcement learning approach](https://www.researchgate.net/publication/366452372_Robust_Decision_Making_for_Autonomous_Vehicles_at_Highway_On-Ramps_A_Constrained_Adversarial_Reinforcement_Learning_Approach),” *IEEE Transactions on Intelligent Transportation Systems*, 2022.
 
