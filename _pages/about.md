@@ -12,7 +12,7 @@ redirect_from:
 From 2019 to 2021, I served as a Senior Research Scientist at Huawei Noah's Ark Lab.
 I received my PhD degree in 2019, from the School of Vehicle and Mobility, Tsinghua University, Beijing, China.</p>
 
-<p align="justify">My research interests lie at the intersection of autonomous mobility and trustworthy AI, spanning the entire spectrum from models and algorithms to applications in intelligent transportation systems (ITS), autonomous vehicles, and robotics, in which I have contributed over 50 papers and hold 8 granted patents.</p>
+<p align="justify">My research interests lie at the intersection of autonomous mobility and trustworthy AI, spanning the entire spectrum from algorithms and models to applications in intelligent transportation systems (ITS), autonomous vehicles, and robotics, in which I have contributed over 50 papers and hold 8 granted patents.</p>
 
 <p align="justify">My vision is to build trustworthy machine intelligence and mobility systems capable of ensuring robustness, safety, controllability, and generalization in safety-critical tasks or complex and uncertain environments, with a special focus on research in 
 <b>Trustworthy Autonomous Mobility</b>, unlocking new capabilities in real-world settings.
