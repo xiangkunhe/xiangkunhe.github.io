@@ -14,7 +14,7 @@ I received my PhD degree in 2019, from the School of Vehicle and Mobility, Tsing
 
 <p align="justify">My research interests lie at the intersection of autonomous mobility and trustworthy AI, spanning the entire spectrum from models and algorithms to applications in intelligent transportation systems (ITS), autonomous vehicles, and robotics, in which I have contributed over 50 papers and hold 8 granted patents.</p>
 
-<p align="justify">My vision is to build trustworthy machine intelligence and systems capable of ensuring robustness, safety, controllability, and generalization in safety-critical tasks or complex and uncertain environments, with a special focus on research in 
+<p align="justify">My vision is to build trustworthy machine intelligence and mobility systems capable of ensuring robustness, safety, controllability, and generalization in safety-critical tasks or complex and uncertain environments, with a special focus on research in 
 <b>Trustworthy Autonomous Mobility</b>, unlocking new capabilities in real-world settings.
 This potentially involves formulating adversarial conditions, designing certifiable guarantees, considering value alignment, generating diverse data, and developing system architectures.
 Since I dive into the fundamental principles of machine intelligence and autonomous mobility, the insights gained have the potential to create a broad impact, such as applications in areas like ITS, robotics, autonomous vehicles, unmanned aerial vehicles (UAVs), and electric vertical take-off and landing (eVTOL) aircraft.</p>
