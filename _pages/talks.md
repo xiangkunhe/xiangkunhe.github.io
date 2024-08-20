@@ -8,6 +8,8 @@ author_profile: true
 2024 - **Trustworthy Machine Intelligence for Autonomous Mobility**
 * Tsinghua-Berkeley Shenzhen Institute, Institute of Data and Information, Tsinghua SIGS, Tsinghua University.
 * Intelligent Transportation Thrust, Systems Hub, the Hong Kong University of Science and Technology (Guangzhou).<br>
+* School of Control Science and Engineering, Dalian University of Technology.<br>
+* School of Mechanical Engineering, Tianjin University.<br>
 * Department of Mechanical and Energy Engineering, Southern University of Science and Technology.<br>
 * School of Automotive Engineering, Wuhan University of Technology.<br><br>
 
