@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 **Professional Membership** <br>
-Institute of Electrical and Electronics Engineers (IEEE), IEEE Young Professionals, IEEE Consultants Network, Association for Computing Machinery (ACM), Chinese Association of Automation (CAA), CAA Intelligent Vehicle Committee, Chinese Association for Artificial Intelligence (CAAI), China Society of Automotive Engineers (China-SAE)
+Institute of Electrical and Electronics Engineers (IEEE), IEEE Young Professionals, IEEE Consultants Network, Association for Computing Machinery (ACM), Chinese Association of Automation (CAA), CAA Technical Committee on Vehicle Control and Intelligence, CAA Intelligent Vehicle Committee, Chinese Association for Artificial Intelligence (CAAI), China Society of Automotive Engineers (China-SAE)
 
 **Award Committee**: <br>
 [Autonomous Driving Control Benchmark Challenge](https://cdc2023.ieeecss.org/benchmark-challenge/) at the 62nd IEEE Conference on Decision and Control (CDC 2023)
