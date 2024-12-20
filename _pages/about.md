@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<p align="justify">I am currently a UESTC100 Young Professor at the University of Electronic Science and Technology of China. Previously, I was a Research Fellow at Nanyang Technological University, Singapore, and served as a Senior Research Scientist at Huawei Noah's Ark Lab from 2019 to 2021. I earned my Ph.D. in 2019 from the School of Vehicle and Mobility at Tsinghua University, China.</p>
+<p align="justify">I am currently a UESTC100 Young Professor at the University of Electronic Science and Technology of China. Previously, I was a Research Fellow at Nanyang Technological University, Singapore, and served as a Senior Research Scientist at Huawei Noah's Ark Lab from 2019 to 2021. I earned my Ph.D. in 2019 from the School of Vehicle and Mobility at Tsinghua University.</p>
 
 <p align="justify">My research interests lie at the intersection of autonomous mobility and trustworthy AI, spanning the entire spectrum from algorithms and models to applications in intelligent transportation systems (ITS), autonomous vehicles, and robotics, in which I have contributed over 50 papers and hold 8 granted patents.</p>
 
