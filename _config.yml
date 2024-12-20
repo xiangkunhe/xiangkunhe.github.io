@@ -6,11 +6,11 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "Singapore"
+locale                   : "Shenzhen"
 title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Xiangkun He"
-description              : &description "Research Fellow"
+description              : &description "UESTC100 Young Professor"
 url                      : https://xiangkunhe.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "xiangkunhe.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Xiangkun He"
   avatar           : "website_hxk_best.jpg"
-  bio              : "Research Fellow"
-  location         : "Nanyang Technological University"
-  employer         : "Singapore"
+  bio              : "UESTC100 Young Professor"
+  location         : "University of Electronic Science and Technology of China"
+  employer         : "Shenzhen"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=xpyS8ksAAAAJ&hl=zh-CN"
-  email            : "xiangkun.he@ntu.edu.sg"
+  email            : "xiangkun.he@uestc.edu.cn"
   researchgate     :  "https://www.researchgate.net/profile/Xiangkun-He-2"
   uri              :
   bitbucket        :
