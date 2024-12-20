@@ -14,7 +14,6 @@ redirect_from:
 <b>Trustworthy Autonomous Mobility</b>, unlocking new capabilities in real-world settings.
 This potentially involves formulating adversarial conditions, designing certifiable guarantees, considering value alignment, generating diverse data, and developing system architectures.
 Since I dive into the fundamental principles of machine intelligence and autonomous mobility, the insights gained have the potential to create a broad impact, such as applications in areas like ITS, robotics, autonomous vehicles, unmanned aerial vehicles (UAVs), and electric vertical take-off and landing (eVTOL) aircraft.</p>
-
 <img src="../images/my_AI.png" alt="Adversarial Attacks and Robust Defenses for Intelligent Systems & Brain-Like Machine Intelligence" title="Adversarial Attacks and Robust Defenses for Intelligent Systems & Brain-Like Machine Intelligence" align = "center">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[Video Demonstration](https://www.bilibili.com/video/BV1uM4y147H2/?spm_id_from=333.999.0.0&vd_source=71620ac61fcf7851589c019bff140478)**
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[Video Demonstration](https://www.bilibili.com/video/BV1E34y1T73M/?spm_id_from=333.999.0.0&vd_source=71620ac61fcf7851589c019bff140478)**
