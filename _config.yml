@@ -84,12 +84,12 @@ author:
   avatar           : "website_hxk_best.jpg"
   bio              : "UESTC100 Young Professor"
   location         : "Shenzhen"
-  employer         : "https://faculty.uestc.edu.cn/hexiangkun/zh_CN/index.htm"
+  employer         : #"https://faculty.uestc.edu.cn/hexiangkun/zh_CN/index.htm"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=xpyS8ksAAAAJ&hl=zh-CN"
   email            : "xiangkun.he@uestc.edu.cn"
   researchgate     :  "https://www.researchgate.net/profile/Xiangkun-He-2"
-  uri              :
+  uri              : "https://faculty.uestc.edu.cn/hexiangkun/zh_CN/index.htm"
   bitbucket        :
   codepen          :
   dribbble         :
