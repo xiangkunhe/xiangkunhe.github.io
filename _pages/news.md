@@ -8,6 +8,9 @@ redirect_from:
 ---
 
 {% include base_path %}
+* 2025.01: I'm happy to share that I'm starting a new position as [UESTC100 Young Professor](https://faculty.uestc.edu.cn/hexiangkun/zh_CN/index.htm)! My team (Trustworthy Intelligence and Mobility SystEms Group, TIME) is currently recruiting postdoctoral fellows, doctoral students, master's students, interns, joint training students, associate researchers, and engineers. I warmly welcome students with strong programming skills, a solid foundation in mathematics, and a passion for scientific research to join us. 
+Together, let us forge ahead and explore the frontiers of knowledge and innovation.
+For details on the specific benefits and compensation for certain positions, please click [here](https://mp.weixin.qq.com/s/G8_A5b6akCe2XQDsh8zUnQ).
 * 2024.07: Our Special Issue on [Advanced Autonomous Mobility toward Low-Altitude Economy and Three-Dimensional Transportation Systems](https://www.mdpi.com/journal/drones/special_issues/4AXW065XBE) has been accepted by Drones (**IF: 4.4; WOS-JIF: Q1; CAS-JCR: Q2**)!
 * 2024.05: Our research on **Robust Multi-Objective Reinforcement Learning** ([Robust Multi-Objective Reinforcement Learning Considering Environmental Uncertainties](https://drive.google.com/file/d/1oKSJOxoTw0B6uo9okSwZewBgYfhj2s8e/view?usp=sharing)) has been accepted by IEEE Transactions on Neural Networks and Learning Systems!
 * 2024.04: Our research on **Trustworthy Autonomous Driving** ([Trustworthy Autonomous Driving via Defense-Aware Robust Reinforcement Learning against Worst-Case Observational Perturbations](https://authors.elsevier.com/c/1j15Y,M0mRV9Nw)) has been accepted by Transportation Research Part C: Emerging Technologies!
