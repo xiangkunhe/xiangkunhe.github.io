@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-* 2025.01: I'm happy to share that I'm starting a new position as [UESTC100 Young Professor](https://faculty.uestc.edu.cn/hexiangkun/zh_CN/index.htm)! My team (Trustworthy Intelligence and Mobility SystEms Group, TIME) is currently recruiting postdoctoral fellows, doctoral students, master's students, interns, joint training students, associate researchers, and engineers. I warmly welcome students with strong programming skills, a solid foundation in mathematics, and a passion for scientific research to join us. 
+* 2025.01: I'm happy to share that I'm starting a new position as [UESTC100 Young Professor](https://faculty.uestc.edu.cn/hexiangkun/zh_CN/index.htm)! My team (Trustworthy Intelligence and Mobility SystEms Group, TIME) is currently recruiting postdoctoral fellows, doctoral students, master's students, interns, joint training students, researchers, and engineers. I warmly welcome students with strong programming skills, a solid foundation in mathematics, and a passion for scientific research to join us. 
 Together, let us forge ahead and explore the frontiers of knowledge and innovation.
 For details on the specific benefits and compensation for certain positions, please click [here](https://mp.weixin.qq.com/s/G8_A5b6akCe2XQDsh8zUnQ).
 * 2024.07: Our Special Issue on [Advanced Autonomous Mobility toward Low-Altitude Economy and Three-Dimensional Transportation Systems](https://www.mdpi.com/journal/drones/special_issues/4AXW065XBE) has been accepted by Drones (**IF: 4.4; WOS-JIF: Q1; CAS-JCR: Q2**)!
