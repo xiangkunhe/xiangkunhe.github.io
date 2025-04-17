@@ -14,6 +14,9 @@ Institute of Electrical and Electronics Engineers (IEEE), IEEE Young Professiona
 **Invited Session Organizer** <br>
 [Enhancing Trustworthiness and Resilience of Connected and Autonomous Vehicles in Adversarial Environments](https://www.researchgate.net/publication/379756126_Enhancing_Trustworthiness_and_Resilience_of_Connected_and_Autonomous_Vehicles_in_Adversarial_Environments) at the 27th IEEE International Conference on Intelligent Transportation Systems (ITSC 2024)
 
+**Editorial Board** <br>
+[Journal of Intelligent and Connected Vehicles](https://www.sciopen.com/journal/2399-9802) (ESCI)
+
 **Guest Editor** <br>
 [Drones](https://www.mdpi.com/journal/drones) (SCI, IF: 4.4, WOS-JIF: Q1, CAS-JCR: Q2), Special Issue: [Advanced Autonomous Mobility toward Low-Altitude Economy and Three-Dimensional Transportation Systems](https://www.mdpi.com/journal/drones/special_issues/4AXW065XBE)<br>
 [Machines](https://www.mdpi.com/journal/machines) (SCI, IF: 2.1, WOS-JIF: Q2, CAS-JCR: Q3), Special Issue: [New Trends in Robotics and Automation](https://www.mdpi.com/journal/machines/special_issues/7DR1AL0KQ5)<br>
