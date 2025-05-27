@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+* 2025.05: I am honored to serve as an Editorial Board Member of [Journal of Highway and Transportation Research and Development (English Edition)](https://www.sciopen.com/journal/join_journal/editorial_board?id=1810149294156099586&issn=2095-6215).
 * 2025.05: The 9th CAA International Conference on Vehicular Control and Intelligence (CVCI 2025) will be held in Qingdao from Oct. 24th to 26th. We are pleased to announce the organization of a special invited session (Code: olWVVO) titled [Trustworthy Intelligence and Mobility Systems](https://www.researchgate.net/publication/391597327_CVCI_2025_Special_Session-Trustworthy_Intelligence_and_Mobility_Systems), and sincerely invite you to contribute your work and join us for in-depth academic exchange.
 * 2025.04: I am honored to serve as a Young Editorial Board Member of [Journal of Intelligent and Connected Vehicles](https://www.sciopen.com/journal/2399-9802).
 * 2025.01: I'm happy to share that I'm starting a new position as [UESTC100 Young Professor](https://faculty.uestc.edu.cn/hexiangkun/zh_CN/index.htm)! My team (Trustworthy Intelligence and Mobility SystEms Group, TIME) is currently recruiting postdoctoral fellows, doctoral students, master's students, interns, joint training students, researchers, and engineers. I warmly welcome students with strong programming skills, a solid foundation in mathematics, and a passion for scientific research to join us. 
