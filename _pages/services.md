@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 **Professional Membership** <br>
-Institute of Electrical and Electronics Engineers (IEEE), IEEE Young Professionals, IEEE Consultants Network, Association for Computing Machinery (ACM), Chinese Association of Automation (CAA), CAA Technical Committee on Vehicle Control and Intelligence, CAA Intelligent Vehicle Committee, Chinese Association for Artificial Intelligence (CAAI), China Society of Automotive Engineers (China-SAE), 
+Institute of Electrical and Electronics Engineers (IEEE), IEEE Young Professionals, IEEE Consultants Network, Association for Computing Machinery (ACM), Chinese Association of Automation (CAA), CAA Technical Committee on Vehicle Control and Intelligence, CAA Technical Committee on Integrated Intelligent Transportation, CAA Intelligent Vehicle Committee, Chinese Association for Artificial Intelligence (CAAI), China Society of Automotive Engineers (China-SAE), 
 IEEE Computer Society, IEEE Computational Intelligence Society, IEEE Robotics and Automation Society, IEEE Intelligent Transportation Systems Society 
 
 **Award Committee**: <br>
