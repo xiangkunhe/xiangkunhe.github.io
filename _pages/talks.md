@@ -5,6 +5,10 @@ permalink: /talks/
 author_profile: true
 ---
 
+2025 - **Trustworthy Machine Intelligence for Autonomous Mobility**
+* Keynote Speaker at the [2025 China Computer Federation (CCF) Annual Academic Conference on Intelligent Vehicles](https://mp.weixin.qq.com/s/bL-Ldww2ScvE7ogV76YIxA).<br>
+* Keynote Speaker at the [2025 Future Mobility Pioneers Conference](https://mp.weixin.qq.com/s/aQDwolbs6kM3NOwC6iW7Xw).<br>
+
 2024 - **Trustworthy Machine Intelligence for Autonomous Mobility**
 * Tsinghua-Berkeley Shenzhen Institute, Institute of Data and Information, Tsinghua SIGS, Tsinghua University.
 * Intelligent Transportation Thrust, Systems Hub, the Hong Kong University of Science and Technology (Guangzhou).<br>
