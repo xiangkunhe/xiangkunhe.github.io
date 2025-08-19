@@ -8,7 +8,9 @@ redirect_from:
 ---
 
 {% include base_path %}
+* 2025.08: It is my honor to serve as a keynote speaker at the [2025 China Computer Federation (CCF) Annual Academic Conference on Intelligent Vehicles](https://mp.weixin.qq.com/s/bL-Ldww2ScvE7ogV76YIxA).
 * 2025.07: It is my honor to serve as Member of the Technical Committee on Integrated Intelligent Transportation, Chinese Association of Automation.
+* 2025.06: It is my honor to serve as a keynote speaker at the [2025 Future Mobility Pioneers Conference](https://mp.weixin.qq.com/s/aQDwolbs6kM3NOwC6iW7Xw).
 * 2025.05: I am honored to serve as an Editorial Board Member of [Journal of Highway and Transportation Research and Development (English Edition)](https://www.sciopen.com/journal/join_journal/editorial_board?id=1810149294156099586&issn=2095-6215).
 * 2025.05: The 9th CAA International Conference on Vehicular Control and Intelligence (CVCI 2025) will be held in Qingdao from Oct. 24th to 26th. We are pleased to announce the organization of a special invited session (Code: olWVVO) titled [Trustworthy Intelligence and Mobility Systems](https://www.researchgate.net/publication/391597327_CVCI_2025_Special_Session-Trustworthy_Intelligence_and_Mobility_Systems), and sincerely invite you to contribute your work and join us for in-depth academic exchange.
 * 2025.04: I am honored to serve as a Young Editorial Board Member of [Journal of Intelligent and Connected Vehicles](https://www.sciopen.com/journal/2399-9802).
