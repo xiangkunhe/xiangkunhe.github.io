@@ -5,6 +5,7 @@ permalink: /honors/
 author_profile: true
 ---
 
+* **The Top 2% Scientists by Stanford University & Elsevier** - 2025
 * **Hundred Talents Program - University of Electronic Science and Technology of China** - 2024
 * **IEEE Spectrum Magazine: [Neural Reactions to Fear Make AI Drive More Safely](https://spectrum.ieee.org/autonomous-vehicle-safety-defensive-driving)** - 2023
 
