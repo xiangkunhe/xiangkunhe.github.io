@@ -8,6 +8,8 @@ redirect_from:
 ---
 
 {% include base_path %}
+* 2025.09: Cheers! I have been selected as one of the [Top 2% Scientists](http://www.topscinet.com/scientist_profile/He,%20Xiangkun/2017/?stype=single_year) by Stanford University & Elsevier.
+* 2025.09: It is my honor to serve as an Editorial Board Member of [Brain-X](https://www.brain-x.science/).
 * 2025.08: It is my honor to serve as a keynote speaker at the [2025 China Computer Federation (CCF) Annual Academic Conference on Intelligent Vehicles](https://mp.weixin.qq.com/s/bL-Ldww2ScvE7ogV76YIxA).
 * 2025.07: It is my honor to serve as Member of the Technical Committee on Integrated Intelligent Transportation, Chinese Association of Automation.
 * 2025.06: It is my honor to serve as a keynote speaker at the [2025 Future Mobility Pioneers Conference](https://mp.weixin.qq.com/s/aQDwolbs6kM3NOwC6iW7Xw).
